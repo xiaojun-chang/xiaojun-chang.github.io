@@ -12,7 +12,7 @@ permalink: /experience
 
 _July 2020 --- present_
 
-### Lecturer and DECRA Fellow, [Faculty of Information Technology](https://www.monash.edu/it){:target="_blank"}, [Monash University](https://www.monash.edu/){:target="_blank"}
+### Senior Lecturer and DECRA Fellow, [Faculty of Information Technology](https://www.monash.edu/it){:target="_blank"}, [Monash University](https://www.monash.edu/){:target="_blank"}
 **Melbourne, VIC, Australia**
 </div>
 
