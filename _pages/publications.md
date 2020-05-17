@@ -6,7 +6,7 @@ permalink: /publications
 ---
 # SELECTED PUBLICATIONS
 
-# CONFERENCE PAPERS
+## CONFERENCE PAPERS
 
 {% for publication in site.data.conference_papers %}
 
@@ -16,7 +16,7 @@ permalink: /publications
 
 <p>&nbsp;</p>
 
-# JOURNAL PAPERS
+## JOURNAL PAPERS
 
 {% for publication in site.data.journal_papers %}
 
@@ -28,7 +28,7 @@ permalink: /publications
 
 {% assign numOfJournals = loopindex %}
 
-# PREPRINTS
+## PREPRINTS
 
 {% for publication in site.data.reports %}
 
