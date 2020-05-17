@@ -6,7 +6,7 @@ permalink: /publications
 ---
 # SELECTED PUBLICATIONS
 
-Full paper list can be found at [DBLP](https://dblp.org/pers/c/Chang:Xiaojun.html)  [Google Scholar](https://scholar.google.com/citations?hl=en&user=8suupocAAAAJ)
+Full paper list can be found at [DBLP](https://dblp.org/pers/c/Chang:Xiaojun.html) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=8suupocAAAAJ).
 
 ## CONFERENCE PAPERS
 
