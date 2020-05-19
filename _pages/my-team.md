@@ -18,6 +18,7 @@ permalink: /my-team
 - Mingfei Han, PhD Student, from University of Chinese Academy of Sciences, July 2020
 - Mengyuan Ma, PhD Student, from Beihang University, July 2020
 - Siyi Hu, PhD Student, from Fudan Univeristy, October 2020
+- Sihao Lin, PhD Student, from South China University of Technology, Feburary 2021
 
 ## Current Students as Associate Supervisor
 - Yuedong Chen, PhD Student, from Sun Yat-sen University, Janauary 2021, Co-supervised with Prof. Jianfei Cai
