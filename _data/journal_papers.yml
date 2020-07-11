@@ -21,3 +21,12 @@
     url: https://www.xiaojun.ai/papers/IJCV2015.pdf
     display: pdf
 
+- title: Semantics Preserving Graph Propagation for Zero-Shot Object Detection
+  image: TIP2020-ZeroShotOD.jpg
+  description: <ul><li>propose a semantics preserving graph propagation model based on GCN for the challenging ZSD task, which leverages both the semantic description and structural knowledge in prior category graphs to facilitate the semantic coherency of region graph.</li></ul>
+  authors: Caixia Yan, Qinghua Zheng, <b>Xiaojun Chang</b>, Minnan Luo, ChungHsing Yeh and Alexander G. Hauptmann
+  venue: IEEE Transactions on Image Processing, Accepted, 2020.
+  number_link: 1
+  link1:
+    url: https://www.xiaojun.ai/
+    dispaly: pdf
