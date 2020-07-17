@@ -30,6 +30,6 @@ permalink: /my-team
 - Lingling Zhang, graduated in 2020, first job as an Assistant Professor at Xi'an Jiaotong University, sponsored by Postdoctoral Innovation Talent Support Program.
 
 ## Former Visiting Students
-- Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, May 2019 - June 2020
+- Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, September 2019 - June 2020
 
 </div>
