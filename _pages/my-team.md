@@ -25,10 +25,6 @@ permalink: /my-team
 ## Current Visiting Students
 - Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 -
 
-## Alumni
-- Wenhe Liu, graduated in 2019, first job as a Postdoc Research Fellow at School of Computer Science, Carnegie Mellon University.
-- Lingling Zhang, graduated in 2020, first job as an Assistant Professor at Xi'an Jiaotong University, sponsored by Postdoctoral Innovation Talent Support Program.
-
 ## Former Visiting Students
 - Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, September 2019 - June 2020
 
