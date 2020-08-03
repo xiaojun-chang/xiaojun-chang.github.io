@@ -16,19 +16,6 @@ _July 2020 --- present_
 **Melbourne, VIC, Australia**
 </div>
 
-# EDUCATION
-
-<div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/uts.jpg">](https://www.uts.edu.au/){:target="_blank"}
-
-_October 2012 --- August 2016_
-
-### [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Australia
-
-**PhD in Artificial Intelligence**
-</div>
-
-
 # EXPERIENCE
 
 <div class="experience-box" markdown="1">
@@ -59,6 +46,19 @@ _March 2014 --- August 2016_
 **Pittsburgh, PA, US**
 
 </div>
+
+# EDUCATION
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/uts.jpg">](https://www.uts.edu.au/){:target="_blank"}
+
+_October 2012 --- August 2016_
+
+### [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Australia
+
+**PhD in Artificial Intelligence**
+</div>
+
 
 <br />
 
