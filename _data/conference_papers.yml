@@ -160,10 +160,13 @@
   description: <ul><li>define a novel notion of semantic saliency that assesses the relevance of each shot with the event of interest</li></ul>
   authors: <b>Xiaojun Chang</b>, Yi Yang, Eric P. Xing, Yao-Liang Yu
   venue: <a href="https://icml.cc/2015/" target="_blank">ICML 2015</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: https://www.xiaojun.ai/papers/ICML2015.pdf
     display: paper
+  link2:
+    url: https://github.com/cxj273/NI-SVM
+    display: code
 
 - title: Searching Persuasively - Joint Event Detection and Evidence Recounting with Limited Supervision
   image: ACMMM2015_SP_framework.png
