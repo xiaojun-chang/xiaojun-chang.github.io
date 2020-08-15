@@ -31,6 +31,7 @@ permalink: /my-team
 
 ## Former Master Students
 - Qi Hao, Monash University, August 2019 - July 2020
+- Yang Wang, Monash University, August 2019 - July 2020
 - Xiangtan Lin, Monash University, August 2019 -
 
 </div>
