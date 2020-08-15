@@ -30,7 +30,7 @@ permalink: /my-team
 - Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, September 2019 - June 2020
 
 ## Former Master Students
-- Qi Hao, Monash University
-- Xiangtan Lin, Monash University
+- Qi Hao, Monash University, August 2019 - July 2020
+- Xiangtan Lin, Monash University, August 2019 -
 
 </div>
