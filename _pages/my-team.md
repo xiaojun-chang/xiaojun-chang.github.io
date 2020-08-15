@@ -23,9 +23,14 @@ permalink: /my-team
 - Yuedong Chen, PhD Student, from Sun Yat-sen University, Janauary 2021, Co-supervised with Prof. Jianfei Cai
 
 ## Current Visiting Students
+- Zutao Jiang, PhD Student, from Xi'an Jiaotong University, September 2020 -
 - Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 -
 
 ## Former Visiting Students
 - Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, September 2019 - June 2020
+
+## Former Master Students
+- Qi Hao, Monash University
+- Xiangtan Lin, Monash University
 
 </div>
