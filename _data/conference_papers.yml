@@ -3,10 +3,13 @@
   description: <ul><li>design a novel Inter-Video Proposal Relation method, which can effectively leverage inter-video proposal relation to learn discriminative representations for video object detection</li></ul>
   authors: Mingfei Han, Yali Wang, <b>Xiaojun Chang</b> and Yu Qiao
   venue: <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a>
-  number_link: 1
+  number_link: 2
   link1:
-    url: https://www.xiaojun.ai
+    url: http://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123660426.pdf
     display: paper
+  link2:
+    url: https://github.com/youthHan/HVRNet
+    display: code
 
 
 - title: Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting
