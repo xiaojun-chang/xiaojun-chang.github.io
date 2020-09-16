@@ -35,6 +35,9 @@
     url: https://www.xiaojun.ai/demo/CVPR2020_Demo.mp4
     display: DEMO
   link3:
+    url: https://github.com/ZhuFengdaaa/MG-AuxRN
+    display: CODE
+  link4:
     url: https://www.xiaojun.ai/papers/CVPR2020_04322.pdf
     display: [Oral]
 
