@@ -27,7 +27,9 @@ His general research interest is to develop structured machine learning models f
 
 - Learning with Limited Supervision, including few-shot learning, zero-shot learning.
 
-- Vision-Language Grounding, including vision-language navigation, and vision-and-dialog navigation.
+- Vision-Language Grounding, including vision-language navigation, vision-and-dialog navigation, and medical report generation.
+
+- Automated Machine Learning (AutoML)
 
 ## For Prospective Students
 
