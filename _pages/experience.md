@@ -59,6 +59,25 @@ _October 2012 --- August 2016_
 **PhD in Artificial Intelligence**
 </div>
 
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nwu.jpg">](https://www.nwu.edu.cn/){:target="_blank"}
+
+_September 2008 --- July 2011_
+
+### [Northwest University](https://www.nwu.edu.cn/){:target="_blank"}, China
+
+**Master in Computer Science**
+</div>
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/nwu.jpg">](https://www.nwu.edu.cn/){:target="_blank"}
+
+_September 2004 --- June 2008_
+
+### [Northwest University](htts://www.nwu.edu.cn/){:target="_blank"}, China
+
+**Bachelor in Theoretical Physics**
+</div>
 
 <br />
 
