@@ -9,6 +9,9 @@
 
 - name: "EXPERIENCE"
   link: "/experience"
+  
+- name: "PROJECTS"
+  link: "/projects"
 
 - name: "PUBLICATIONS"
   link: "/publications"
