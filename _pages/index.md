@@ -33,7 +33,7 @@ His general research interest is to develop structured machine learning models f
 
 ## For Prospective Students
 
-Dr Chang is actively looking for talented and motivated PhD students. The research topics include multimedia, computer vision and vision-language learning. Monash is ranked: 75th globally in the Times Higher Education World University Rankings 2020. 73rd globally and third in Australia in ShanghaiRanking's Academic Ranking of World Universities 2019. 21st in the World's Most International Universities in 2017 as released by Times Higher Education.
+Dr Chang is actively looking for talented and motivated PhD students. The research topics include multimedia, computer vision and vision-language learning. Monash is ranked: 75th globally in the Times Higher Education World University Rankings 2020; 73rd globally and third in Australia in ShanghaiRanking's Academic Ranking of World Universities 2019; 21st in the World's Most International Universities in 2017 as released by Times Higher Education.
 
 
 ## News
