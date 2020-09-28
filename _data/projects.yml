@@ -2,4 +2,4 @@
   image: future_action.png
   description: <ul><li>This project aims to build state-of-the-art deep learning models to predict future actions in videos with a handful of labeled examples. The project expects to produce the next great step for machine intelligence - the potential to explore a handful of labeled examples to better understand, interpret and infer human actions. Expected outcomes of this project lay theoretical foundations for learning future action prediction in the wild scenario and build the next generation of intelligent systems to accommodate limited supervision. This should benefit science, society, and the economy nationally through the applications of autonomous vehicles, sensor technologies, and cybersecurity.</li></ul>
   authors: <b>Xiaojun Chang</b>
-  venue: <a href="https://www.arc.gov.au/" target="_blank">Australian Research Council</a>
+  venue: <a href="https://www.arc.gov.au/" target="_blank">Australian Research Council</a>, 2019-2021
