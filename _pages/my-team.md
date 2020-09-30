@@ -12,6 +12,9 @@ permalink: /my-team
 
 # Supervision
 
+## Current Research Associates
+- Miao Zhang, Postdoc Research Fellow, July 2020 - 
+
 ## Current Students as Main Supervisor
 - Changlin Li, PhD Student, from University of Science and Technology of China, May 2019 [Google Scholar](http://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en){:target="_blank"}
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
