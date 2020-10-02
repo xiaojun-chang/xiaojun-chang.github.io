@@ -101,6 +101,26 @@
     url: https://github.com/MiaoZhang0525/NSAS_FOR_CVPR
     display: code
 
+- title: Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement
+  image: NeurIPS2020_2.jpg
+  description: <ul><li>enhance the intelligent exploration of differentiable Neural Architecture Search in the latent space</li></ul>
+  authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Zongyuan Ge and Steven Su
+  venue: <a href="https://neurips.cc/" target="_blank">NeurIPS 2020</a>
+  number_link: 1
+  link1:
+    url: #
+    display: paper
+
+- title: Hierarchical Neural Architecture Search for Deep Stereo Matching
+  image: NeurIPS2020_1.jpg
+  description: <ul><li>leverage the volumetric stereo matching pipeline and allow the network to automat70 ically select the optimal structures for both the Feature Net and the Matching Net</li></ul>
+  authors: Xuelian Cheng, Yiran Zhong, Mehrtash Harandi, Yuchao Dai, <b>Xiaojun Chang</b>, Hongdong Li, Tom Drummond, and Zongyuan Ge
+  venue: <a href="https://neurips.cc/" target="_blank">NeurIPS 2020</a>
+  number_link: 1
+  link1:
+    url: #
+    display: paper
+
 - title: Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations
   image: EMNLP2019_MHA_framework.png
   description: <ul><li>leveraging visual object detection and propose a model with diverse multi-head attention to learn grounded multilingual multimodal representations</li></ul>
