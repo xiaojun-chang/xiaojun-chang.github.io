@@ -1,5 +1,5 @@
 ---
-title: Xiaojun Chang's projects
+title: Xiaojun Chang's Projects
 layout: default
 excerpt: Xiaojun Chang's projects
 permalink: /projects
