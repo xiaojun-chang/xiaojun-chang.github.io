@@ -20,9 +20,10 @@ permalink: /my-team
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020 [Google Scholar](http://scholar.google.com/citations?user=MUNpAQIAAAAJ&hl=en){:target="_blank"}
 - Weili Guan, PhD Student, from National University of Singapore, May 2020
-- Mingfei Han, PhD Student, from University of Chinese Academy of Sciences, August 2020
+- Mingfei Han, PhD Student, from University of Chinese Academy of Sciences, March 2021
 - Yuetian Weng, Master Student, from Nankai University, August 2020
-- Siyi Hu, PhD Student, from Fudan Univeristy, October 2020
+- Siyi Hu, PhD Student, from Fudan Univeristy, March 2021
+- Sihao Lin, PhD Student, from Sun Yat-sen University, March 2021
 
 ## Current Students as Associate Supervisor
 - Yuedong Chen, PhD Student, from Sun Yat-sen University, Janauary 2021, Co-supervised with Prof. Jianfei Cai
