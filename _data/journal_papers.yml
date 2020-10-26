@@ -1,4 +1,4 @@
-- title: One-Shot Neural Architecture Search#: Maximising Diversity to Overcome Catastrophic Forgetting
+- title: One-Shot Neural Architecture Search -- Maximising Diversity to Overcome Catastrophic Forgetting
   image: TPAMI2020.jpg
   description: <ul><li>To improve transferability, we further devised a variant of NSAS, called NSAS-C, which searches for deeper architectures in the convolutional cell search.</li></ul>
   authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Zongyuan Ge, and Steven Su
