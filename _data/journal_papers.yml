@@ -1,3 +1,16 @@
+- title: One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting
+  image: TPAMI2020.jpg
+  description: <ul><li>To improve transferability, we further devised a variant of NSAS, called NSAS-C, which searches for deeper architectures in the convolutional cell search.</li></ul>
+  authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Zongyuan Ge, and Steven Su
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI)
+  number_link: 2
+  link1:
+    url: #
+    display: pdf
+  link2:
+    url: https://github.com/MiaoZhang0525/NSAS_FOR_CVPR
+    display: code
+
 - title: Semantic Pooling for Complex Event Analysis in Untrimmed Videos
   image: PAMI2017.png
   description: <ul><li>design the informed nearly-isotonic SVM classifier (NI-SVM) that is able to exploit the carefully constructed ordering information</li></ul>
