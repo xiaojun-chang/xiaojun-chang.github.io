@@ -49,35 +49,69 @@ Before joining Monash, he was a Postdoc Research Associate in School of Computer
 
 ### References
 [1] Pengzhen Ren, Yun Xiao, <b>Xiaojun Chang</b>, Po-Yao Huang, Zhihui Li, Xiaojiang Chen, Xin Wang. A Comprehensive Survey of Neural Architecture Search: Challenges and Solutions. CoRR abs/2006.02903 (2020).
+
 [2] Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Zongyuan Ge, and Steven Su. One-Shot Neural Architecture Search: Maximising Diversity to Overcome Catastrophic Forgetting. IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2020.
+
 [3] Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, <b>Xiaojun Chang</b>. Neural Architecture Search by Block-wisely Distilling Architecture Knowledge. CVPR 2020.
+
 [4] Xuelian Cheng, Yiran Zhong, Mehrtash Harandi, Yuchao Dai, <b>Xiaojun Chang</b>, Hongdong Li, Tom Drummond, and Zongyuan Ge. Hierarchical Neural Architecture Search for Deep Stereo Matching. NeurIPS 2020.
+
 [5] Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Zongyuan Ge and Steven Su. Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement. NeurIPS 2020.
+
 [6] Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, and Steven Su. Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization. CVPR 2020.
+
+[7] Ahmed, K., & Torresani, L. (2018). Maskconnect: Connectivity learning by gradient descent. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 349-365).
+
 [8] Ren, S., He, K., Girshick, R., & Sun, J. (2015). Faster r-cnn: Towards real-time object detection with region proposal networks. In Advances in neural information processing systems (pp. 91-99).
+
 [9] Liu, W., Anguelov, D., Erhan, D., Szegedy, C., Reed, S., Fu, C. Y., & Berg, A. C. (2016, October). Ssd: Single shot multibox detector. In European conference on computer vision (pp. 21-37). Springer, Cham.
+
 [10] Lin, T. Y., Goyal, P., Girshick, R., He, K., & DollÃąr, P. (2017). Focal loss for dense object detection. In Proceedings of the IEEE international conference on computer vision (pp. 2980-2988).
+
 [11] Zoph, B., & Le, Q. V. (2016). Neural architecture search with reinforcement learning. arXiv preprint arXiv:1611.01578.
+
 [12] Baker, B., Gupta, O., Naik, N., & Raskar, R. (2016). Designing neural network architectures using reinforcement learning. arXiv preprint arXiv:1611.02167.
+
 [13] Dalal, N., & Triggs, B. (2005, June). Histograms of oriented gradients for human detection. In 2005 IEEE computer society conference on computer vision and pattern recognition (CVPR’05) (Vol. 1, pp. 886-893). IEEE.
+
 [14] Lowe, D. G. (1999, September). Object recognition from local scale-invariant features. In Proceedings of the seventh IEEE international conference on computer vision (Vol. 2, pp. 1150-1157). Ieee.
+
 [15] Real, E., Moore, S., Selle, A., Saxena, S., Suematsu, Y. L., Tan, J., ... & Kurakin, A. (2017, August). Large-scale evolution of image classifiers. In Proceedings of the 34th International Conference on Machine Learning-Volume 70 (pp. 2902-2911). JMLR. org.
+
 [16] Xie, L., & Yuille, A. (2017). Genetic cnn. In Proceedings of the IEEE international conference on computer vision (pp. 1379-1388).
+
 [17] Liu, H., Simonyan, K., & Yang, Y. (2018). Darts: Differentiable architecture search. arXiv preprint arXiv:1806.09055.
+
 [18] Shu, Y., Wang, W., & Cai, S. (2019). Understanding Architectures Learnt by Cell-based Neural Architecture Search. arXiv preprint arXiv:1909.09569.
+
 [19] Pham, H., Guan, M. Y., Zoph, B., Le, Q. V., & Dean, J. (2018). Efficient neural architecture search via parameter sharing. arXiv preprint arXiv:1802.03268.
+
 [20] Baker, B., Gupta, O., Raskar, R., & Naik, N. (2017). Accelerating neural architecture search using performance prediction. arXiv preprint arXiv:1705.10823.
+
 [21] Li, C., Peng, J., Yuan, L., Wang, G., Liang, X., Lin, L., & Chang, X. (2019). Blockwisely Supervised Neural Architecture Search with Knowledge Distillation. arXiv preprint arXiv:1911.13053.
+
 [22] Bender, G. (2019). Understanding and simplifying one-shot architecture search.
+
 [23] Brock, A., Lim, T., Ritchie, J. M., & Weston, N. (2017). Smash: one-shot model architecture search through hypernetworks. arXiv preprint arXiv:1708.05344.
+
 [24] Sciuto, C., Yu, K., Jaggi, M., Musat, C., & Salzmann, M. (2019). Evaluating the search phase of neural architecture search. arXiv preprint arXiv:1902.08142.
+
 [25] Zhang, M., Li, H., Pan, S., Chang, X., & Su, S. Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization.
+
 [26] Elsken, T., Metzen, J. H., & Hutter, F. (2018). Neural architecture search: A survey. arXiv preprint arXiv:1808.05377.
+
 [27] Wistuba, M., Rawat, A., & Pedapati, T. (2019). A survey on neural architecture search. arXiv preprint arXiv:1905.01392.
+
 [28] Tan, M., Chen, B., Pang, R., Vasudevan, V., Sandler, M., Howard, A., & Le, Q. V. (2019). Mnasnet: Platform-aware neural architecture search for mobile. In Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition (pp. 2820-2828).
+
 [29] He, K., Zhang, X., Ren, S., & Sun, J. (2016). Deep residual learning for image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 770-778).
+
 [30] Szegedy, C., Liu, W., Jia, Y., Sermanet, P., Reed, S., Anguelov, D., ... & Rabinovich, A. (2015). Going deeper with convolutions. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 1-9).
+
 [31] Zoph, B., Vasudevan, V., Shlens, J., & Le, Q. V. (2018). Learning transferable architectures for scalable image recognition. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 8697-8710).
+
 [32] Zhong, Z., Yan, J., Wu, W., Shao, J., & Liu, C. L. (2018). Practical block-wise neural network architecture generation. In Proceedings of the IEEE conference on computer vision and pattern recognition (pp. 2423-2432).
+
 [33] Liu, H., Simonyan, K., Vinyals, O., Fernando, C., & Kavukcuoglu, K. (2017). Hierarchical representations for efficient architecture search. arXiv preprint arXiv:1711.00436.
+
 [34] Dong, J. D., Cheng, A. C., Juan, D. C., Wei, W., & Sun, M. (2018). Dpp-net: Device-aware progressive search for pareto-optimal neural architectures. In Proceedings of the European Conference on Computer Vision (ECCV) (pp. 517-531).
