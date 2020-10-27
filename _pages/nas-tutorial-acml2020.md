@@ -43,7 +43,7 @@ The emergence of NAS is exciting, as it is expected to end the tedious trial and
 We do not require the audiences to have strong background knowledge on neural architecture search. However, we expect the audience already understand some basic concepts and terminologies on artificial intelligence, computer vision, and machine learning.
 
 ### Presenters
-Dr Xiaojun Chang is a Senior Lecturer at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. Dr Chang is an ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018).
+[Dr Xiaojun Chang](https://www.xiaojun.ai/){:target="_blank"} is a Senior Lecturer at Vision & Lanugage Group, Department of Data Science and AI, Faculty of Information Technology, Monash University Clayton Campus, Australia. Dr Chang is an ARC Discovery Early Career Researcher Award (DECRA) Fellow between 2019-2021 (awarded in 2018).
 
 Before joining Monash, he was a Postdoc Research Associate in School of Computer Science, Carnegie Mellon University, working with Prof. Alex Hauptmann. He has focused his research on exploring multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillence videos. His team has won multiple prizes from international grand challenges which hosted competitive teams from MIT, University of Maryland, Facebook AI Research (FAIR) and Baidu VIS, and aim to advance visual understanding using deep learning. For example, he won the first place in the TrecVID 2019 - Activity Extended Video (ActEV) challenge, which was held by National Institute of Standards and Technology, US.
 
