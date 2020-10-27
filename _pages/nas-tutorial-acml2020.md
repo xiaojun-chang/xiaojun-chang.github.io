@@ -20,3 +20,13 @@ NAS usually begins with a set of predefined operation sets and uses a controller
 
 The early NAS approaches eventually made the automatically generated neural architecture a reality. In order to understand the reasons behind restricting the widespread use of early NAS, we will summarize the common characteristics existing in early NAS work from the perspective of a latecomer.
 
+### Part II -- Optimization Strategy
+Regarding the characteristics and challenges of early NAS, in this part, we will summarize the existing NAS research work with reference to the following four aspects:
+
+(1) Modular search space. Corresponds to the global search space, the modular search space treats the neural architecture as a stack of multiple different types of modules. Therefore, the search task is simplified from the original global search to only one or more modules of different types.
+
+(2) Continuous search strategy. Corresponds to the discrete search strategy, the continuous search strategy continuously relaxes the structural parameters of the neural architecture so that they can be gradient optimized like network parameters.
+
+(3) Neural architecture recycling. Corresponding to the search from scratch, neural architecture recycling takes the existing artificially designed high-performance neural architecture as a starting point, and uses the NAS method to perform network transformations on them to improve their performance.
+
+(4) Incomplete training. Corresponding to fully training, incomplete training aims to speed up the relative performance ranking of candidate architectures by making full use of the shared structure between candidate architectures or performance prediction, thereby avoiding resource consumption caused by complete training of all candidate architectures.
