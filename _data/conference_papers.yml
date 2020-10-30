@@ -41,7 +41,7 @@
     url: https://www.xiaojun.ai/papers/CVPR2020_04322.pdf
     display: [Oral]
 
-- title: ZSTAD - Zero-Shot Temporal Activity Detection
+- title: ZSTAD:Zero-Shot Temporal Activity Detection
   image: CVPR2020_ZSTAD_framework.png
   description: <ul><li>Proposing a novel problem setting for temporal activity detection in which activities that are not seen during the training stage can be recognized and localized simultaneously</li></ul>
   authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Sen Wang, Zongyuan Ge, Minnan Luo, Alexander Hauptmann
@@ -147,7 +147,7 @@
     url: https://www.xiaojun.ai/papers/ACMMM2019.pdf
     display: paper
 
-- title: RCAA Relational Context-Aware Agents for Person Search
+- title: RCAA:Relational Context-Aware Agents for Person Search
   image: ECCV2018_RCAA_framework.png
   description: <ul><li>made the earliest attempt to address the person search problem and built the first deep reinforcement learning based person search framework</li></ul>
   authors: <b>Xiaojun Chang</b>, Po-Yao Huang, Yi-Dong Shen, Xiaodan Liang, Yi Yang and Alexander G. Hauptmann
@@ -177,7 +177,7 @@
     url: https://www.xiaojun.ai/papers/ICCV2017.pdf
     display: paper
 
-- title: They are Not Equally Reliable - Semantic Event Search Using Differentiated Concept Classifiers
+- title: They are Not Equally Reliable:Semantic Event Search Using Differentiated Concept Classifiers
   image: CVPR2016_NotER_framework.png
   description: <ul><li>combine the concept classifiers based on a principled estimate of their accuracy on the unlabeled test videos</li></ul>
   authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Eric P. Xing
@@ -200,7 +200,7 @@
     url: https://github.com/cxj273/NI-SVM
     display: code
 
-- title: Searching Persuasively - Joint Event Detection and Evidence Recounting with Limited Supervision
+- title: Searching Persuasively:~Joint Event Detection and Evidence Recounting with Limited Supervision
   image: ACMMM2015_SP_framework.png
   description: <ul><li>propose a joint framework that simultaneously detects high-level events and localizes the indicative concepts of the events</li></ul>
   authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Alexander G. Hauptmann
