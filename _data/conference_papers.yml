@@ -200,7 +200,7 @@
     url: https://github.com/cxj273/NI-SVM
     display: code
 
-- title: Searching Persuasively:~Joint Event Detection and Evidence Recounting with Limited Supervision
+- title: Searching Persuasively:Joint Event Detection and Evidence Recounting with Limited Supervision
   image: ACMMM2015_SP_framework.png
   description: <ul><li>propose a joint framework that simultaneously detects high-level events and localizes the indicative concepts of the events</li></ul>
   authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Alexander G. Hauptmann
