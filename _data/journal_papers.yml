@@ -43,3 +43,13 @@
   link1:
     url: https://www.xiaojun.ai/
     display: pdf
+    
+- title: Self-supervised Deep Correlation Tracking
+  image: TIP-Self_Supervised_Tracking.jpg
+  description: <ul><li>formulate a multi-cycle consistency loss based selfsupervised learning manner to pre-training the deep feature extraction network, which can take advantage of extensive unlabeled video samples rather than limited manually annotated samples</li></ul>
+  authors: Di Yuan, <b>Xiaojun Chang</b>, Po-Yao Huang, Qiao Liu, and Zhenyu He
+  venue: IEEE Transactions on Image Processing, 2020. Accepted
+  number_link: 1
+  link1:
+    ulr: https://www.xiaojun.ai/
+    display: pdf
