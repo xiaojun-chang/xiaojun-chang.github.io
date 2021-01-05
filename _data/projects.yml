@@ -2,10 +2,10 @@
   image: future_action.png
   description: <ul><li>This project aims to build state-of-the-art deep learning models to predict future actions in videos with a handful of labeled examples. The project expects to produce the next great step for machine intelligence - the potential to explore a handful of labeled examples to better understand, interpret and infer human actions. Expected outcomes of this project lay theoretical foundations for learning future action prediction in the wild scenario and build the next generation of intelligent systems to accommodate limited supervision. This should benefit science, society, and the economy nationally through the applications of autonomous vehicles, sensor technologies, and cybersecurity.</li></ul>
   authors: <b>Xiaojun Chang</b>
-  venue: <a href="https://www.arc.gov.au/" target="_blank">Australian Research Council</a> Discovery Early Career Researcher Award (DECRA), 2019-2021
+  venue: <a href="https://www.arc.gov.au/" target="_blank">Australian Research Council</a> Discovery Early Career Researcher Award (DECRA), Awarded in November 2018.
 
-- title: Micro-Video Understanding with Noisy Labels
-  image: micro-video.jpg
-  description: <ul><li>Micro-videos are taking the social media world by storm with the rising of some online services, like Vine and Kwai. They benefit lots of commercial applications, such as brand building. Despite their value, micro-videos analysis is non-trival: 1) micro-videos are short in length and of low quality; 2) they can be described by multiple heterogeneous channels; 3) they are organized into a hierarchical ontology in terms of semantic venues; and 4) there are no available benchmark dataset on micro-videos. This project aims to build state-of-the-art deep learning models to understand the content in the micro-videos with noisy labels. The project expects to produce the next great step for machine intelligence-the potential to explore noisy labels to better understand, interpret and infer the content. This should benefit science, society, and the economy nationally through the applications of sensor technologies and cybersecurity.</li></ul>
-  authors: <b>Xiaojun Chang</b>
-  venue: Shandong Yilaite AI Technology Co., Ltd
+#- title: Micro-Video Understanding with Noisy Labels
+#  image: micro-video.jpg
+#  description: <ul><li>Micro-videos are taking the social media world by storm with the rising of some online services, like Vine and Kwai. They benefit lots of commercial applications, such as brand building. Despite their value, micro-videos analysis is non-trival: 1) micro-videos are short in length and of low quality; 2) they can be described by multiple heterogeneous channels; 3) they are organized into a hierarchical ontology in terms of semantic venues; and 4) there are no available benchmark dataset on micro-videos. This project aims to build state-of-the-art deep learning models to understand the content in the micro-videos with noisy labels. The project expects to produce the next great step for machine intelligence-the potential to explore noisy labels to better understand, interpret and infer the content. This should benefit science, society, and the economy nationally through the applications of sensor technologies and cybersecurity.</li></ul>
+#  authors: <b>Xiaojun Chang</b>
+#  venue: Shandong Yilaite AI Technology Co., Ltd
