@@ -16,7 +16,7 @@ permalink: /my-team
 - [Miao Zhang](https://scholar.google.com/citations?user=6EUV_UMAAAAJ&hl=en){:target="_blank"}, Postdoc Research Fellow, July 2020 - 
 
 ## Current Students as Main Supervisor
-- Changlin Li, PhD Student, from University of Science and Technology of China, May 2019 [Google Scholar](http://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en){:target="_blank"}
+- Changlin Li, PhD Student, from University of Science and Technology of China, May 2019 [Google Scholar](https://sites.google.com/view/miaozhang/home/){:target="_blank"}
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020 [Google Scholar](http://scholar.google.com/citations?user=MUNpAQIAAAAJ&hl=en){:target="_blank"}
 - Weili Guan, PhD Student, from National University of Singapore, May 2020
