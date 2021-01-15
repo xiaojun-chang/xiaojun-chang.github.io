@@ -1,7 +1,7 @@
 - title: UPDeT:Universal Multi-agent RL via Policy Decoupling with Transformers
   image: ICLR2021_framework.png
   description: <ul><li>propose a universal policy decoupling transformer model that extends MARL to a much broader scenario</li></ul>
-  authors: Siyi Hu, Fengda Zhu, Xiaodan Liang, and <b>Xiaojun Chang*</b>
+  authors: Siyi Hu, Fengda Zhu, <b>Xiaojun Chang</b> and Xiaodan Liang
   venue: <a href="https://iclr.cc/Conferences/2021" target="_blank">ICLR 2021</a>
   number_link: 1
   link1:
