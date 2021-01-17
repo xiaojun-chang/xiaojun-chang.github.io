@@ -38,7 +38,7 @@
   image: TIP2020-ZeroShotOD.jpg
   description: <ul><li>propose a semantics preserving graph propagation model based on GCN for the challenging ZSD task, which leverages both the semantic description and structural knowledge in prior category graphs to facilitate the semantic coherency of region graph.</li></ul>
   authors: Caixia Yan, Qinghua Zheng, <b>Xiaojun Chang</b>, Minnan Luo, ChungHsing Yeh and Alexander G. Hauptmann
-  venue: IEEE Transactions on Image Processing 29: 8163-8176 (2020)
+  venue: IEEE Transactions on Image Processing 29:8163-8176 (2020)
   number_link: 1
   link1:
     url: https://www.xiaojun.ai/
@@ -48,7 +48,7 @@
   image: TIP-Self_Supervised_Tracking.jpg
   description: <ul><li>formulate a multi-cycle consistency loss based selfsupervised learning manner to pre-training the deep feature extraction network, which can take advantage of extensive unlabeled video samples rather than limited manually annotated samples</li></ul>
   authors: Di Yuan, <b>Xiaojun Chang</b>, Po-Yao Huang, Qiao Liu, and Zhenyu He
-  venue: IEEE Transactions on Image Processing 30: 976-985 (2021)
+  venue: IEEE Transactions on Image Processing 30:976-985 (2021)
   number_link: 1
   link1:
     ulr: https://www.xiaojun.ai/
