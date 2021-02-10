@@ -10,7 +10,7 @@ permalink: /my-team
 
 <div markdown="1" class="contact">
 
-# intelliGence perceptiOn ReaSoning lEarning (GORSE) Lab
+# intelliGence perceptiOn and ReaSoning lEarning (GORSE) Lab
 
 ## Current Research Associates
 - [Miao Zhang](https://sites.google.com/view/miaozhang/home?authuser=0){:target="_blank"}, Postdoc Research Fellow, July 2020 - 
