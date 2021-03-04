@@ -37,7 +37,7 @@
   description: <ul><li>Introducing Auxiliary Reasoning Navigation (AuxRN), a framework with four self-supervised auxiliary reasoning tasks to take advantage of the additional training signals derived from the semantic information</li></ul>
   authors: Fengda Zhu, Yi Zhu, <b>Xiaojun Chang</b>, Xiaodan Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
-  number_link: 3
+  number_link: 4
   link1:
     url: https://www.xiaojun.ai/papers/CVPR2020_04322.pdf
     display: paper
