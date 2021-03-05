@@ -2,7 +2,7 @@
   image: TPAMI20-submission.jpg
   description: <ul><li>we propose Multi-granularity Auxiliary Reason- ing Navigation (MG-AuxRN) to facilitate navigation learning. MG-AuxRN perceives multi-granularity input which combining dense object features and global image features.</li></ul>
   authors: Fengda Zhu, Yi Zhu, Yanxin Long, <b>Xiaojun Chang</b>, and Xiaodan Liang
-  venue: Submitted to IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2020
+  venue: Submitted to IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2021
   number_link: 2
   link1:
     url: https://www.xiaojun.ai/papers/TPAMI-2020-09-1266.pdf
