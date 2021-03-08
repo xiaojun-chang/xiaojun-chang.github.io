@@ -12,6 +12,8 @@ permalink: /my-team
 
 # intelliGence perceptiOn and ReaSoning lEarning (GORSE) Lab
 
+<center><img src="https://www.xiaojun.ai/images/group.jpg" /> </center>
+
 ## Current Research Associates
 - [Miao Zhang](https://sites.google.com/view/miaozhang/home?authuser=0){:target="_blank"}, Postdoc Research Fellow, July 2020 - 
 
