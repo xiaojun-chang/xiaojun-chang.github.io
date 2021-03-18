@@ -34,9 +34,9 @@ permalink: /my-team
 
 ## Current Visiting Students
 - Zutao Jiang, PhD Student, from Xi'an Jiaotong University, September 2020 -
-- Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 -
 
 ## Former Visiting Students
+- Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 - March 2021
 - Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, September 2019 - June 2020
 
 ## Former Master Students
