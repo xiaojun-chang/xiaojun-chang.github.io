@@ -3,13 +3,16 @@
   description: <ul><li>propose a new dynamic network routing regime, achieving good hardware-efficiency by predictively adjusting filter numbers of networks at test time with respect to different inputs.</li></ul>
   authors: Changlin Li, Guangrun Wang, Bing Wang, Xiaodan Liang, Zhihui Li, and <b>Xiaojun Chang</b>
   venue: <a href="http://cvpr2021.thecvf.com/" target="_blank">CVPR 2021</a>
-  number_link: 2
+  number_link: 3
   link1:
     url: #
     display: paper
   link2:
     url: #
     display: [ORAL]
+  link3:
+    url: https://github.com/changlin31/DS-Net
+    display: [CODE]
     
 - title: Visual Situated Object Navigation with Graph-based Semantic Exploration
   image: CVPR2021_VSON.png
