@@ -14,7 +14,7 @@
     url: https://github.com/changlin31/DS-Net
     display: [CODE]
     
-- title: SOON: Scenario Oriented Object Navigation with Graph-based Exploration
+- title: SOON:Scenario Oriented Object Navigation with Graph-based Exploration
   image: CVPR2021_VSON.png
   description: <ul><li>propose a task named Scenario Oriented Object Navigation (SOON), in which an agent is instructed to find an object in a house from an arbitrary starting position</li></ul>
   authors: Fengda Zhu, Xiwen Liang, Yi Zhu, <b>Xiaojun Chang</b>, Qizhi Yu, and Xiaodan Liang
