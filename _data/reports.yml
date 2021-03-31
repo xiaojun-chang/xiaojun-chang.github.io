@@ -21,12 +21,4 @@
     url: https://www.xiaojun.ai/
     display: pdf
 
-- title: A Comprehensive Survey of Neural Architecture Search:Challenges and Solutions
-  image: CSUR-NAS.jpg
-  description: <ul><li>we provide a new perspective, beginning with an overview of the characteristics of the earliest NAS algorithms, summarizing the problems in these early NAS algorithms, and then providing solutions for subsequent related research work</li></ul>
-  authors: Pengzhen Ren, Yun Xiao, <b>Xiaojun Chang</b>, Po-Yao Huang, Zhihui Li, Xiaojiang Chen and Xin Wang
-  venue: Accepted by ACM Computing Surveys, 2021
-  number_link: 1
-  link1:
-    url: https://arxiv.org/pdf/2006.02903.pdf
-    display: pdf
+
