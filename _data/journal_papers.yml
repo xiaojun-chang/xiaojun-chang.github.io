@@ -1,3 +1,13 @@
+- title: A Comprehensive Survey of Neural Architecture Search:Challenges and Solutions
+  image: CSUR-NAS.jpg
+  description: <ul><li>we provide a new perspective, beginning with an overview of the characteristics of the earliest NAS algorithms, summarizing the problems in these early NAS algorithms, and then providing solutions for subsequent related research work</li></ul>
+  authors: Pengzhen Ren, Yun Xiao, <b>Xiaojun Chang</b>, Po-Yao Huang, Zhihui Li, Xiaojiang Chen and Xin Wang
+  venue: Accepted by ACM Computing Surveys, 2021
+  number_link: 1
+  link1:
+    url: https://arxiv.org/pdf/2006.02903.pdf
+    display: pdf
+
 - title: One-Shot Neural Architecture Search:Maximising Diversity to Overcome Catastrophic Forgetting
   image: TPAMI2020.jpg
   description: <ul><li>To improve transferability, we further devised a variant of NSAS, called NSAS-C, which searches for deeper architectures in the convolutional cell search.</li></ul>
