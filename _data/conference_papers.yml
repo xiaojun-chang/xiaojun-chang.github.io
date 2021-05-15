@@ -33,6 +33,16 @@
   link1:
     url: https://openreview.net/pdf?id=v9c7hr9ADKx
     display: paper
+    
+- title: iDARTS:Differentiable Architecture Search with Stochastic Implicit Gradients
+  image: ICML2021_framework.png
+  description: <ul><li>This paper deepens our understanding of the hypergradient calculation in the differentiable NAS. </li> </ul>
+  authors: Miao Zhang, Steven Su, Shirui Pan, <b>Xiaojun Chang</b>, Ehsan Abbasnejad and Reza Haffari
+  venue: <a href="https://icml.cc/2021/" target="_blank">ICML 2021</a>
+  number_link: 1
+  link1:
+    url: https://www.xiaojun.ai
+    display: paper
 
 - title: Mining Inter-Video Proposal Relations for Video Object Detection
   image: 1594001465217.jpg
