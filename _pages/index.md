@@ -23,11 +23,11 @@ His general research interest is to develop structured machine learning models f
 
 - Video Analysis, including event detection, object detection, segmentation.
 
-- Learning with Limited Supervision, including few-shot learning, zero-shot learning.
+- Multi-Agent Reinforcement Learning.
 
 - Vision-Language Grounding, including vision-language navigation, vision-and-dialog navigation, and medical report generation.
 
-- Automated Machine Learning (AutoML)
+- Automated Machine Learning (AutoML).
 
 ## For Prospective Students
 
