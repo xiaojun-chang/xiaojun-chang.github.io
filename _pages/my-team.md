@@ -29,9 +29,6 @@ permalink: /my-team
 - Aijia Yang, PhD Student, from Monash University, March 2021
 - Sihao Lin, PhD Student, from Sun Yat-sen University, July 2021
 
-## Current Students as Associate Supervisor
-- Yuedong Chen, PhD Student, from Sun Yat-sen University, Janauary 2021, Co-supervised with Prof. Jianfei Cai
-
 ## Current Visiting Students
 - Zutao Jiang, PhD Student, from Xi'an Jiaotong University, September 2020 -
 
