@@ -17,7 +17,7 @@ permalink: /my-team
 ## Current Research Associates
 - [Miao Zhang](https://sites.google.com/view/miaozhang/home?authuser=0){:target="_blank"}, Postdoc Research Fellow, July 2020 - 
 
-## Current Students as Main Supervisor
+## Current Students as Main Supervisor or Associate Supervisor
 - Changlin Li, PhD Student, from University of Science and Technology of China, May 2019 [Google Scholar](https://scholar.google.com/citations?user=RLAgwBkAAAAJ&hl=en){:target="_blank"}
 - Mingjie Li, PhD Student, from Shanghai Jiaotong University, November 2019
 - Fengda Zhu, PhD Student, from Beihang University, Janauary 2020 [Google Scholar](http://scholar.google.com/citations?user=MUNpAQIAAAAJ&hl=en){:target="_blank"}
