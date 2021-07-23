@@ -10,15 +10,24 @@ permalink: /experience
 # CURRENT
 
 <div class="experience-box" markdown="1">
-[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/monash.jpg">](https://www.monash.edu/){:target="_blank"}
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
 
-_July 2020 --- present_
+_July 2021 --- present_
 
-### Senior Lecturer and DECRA Fellow, [Faculty of Information Technology](https://www.monash.edu/it){:target="_blank"}, [Monash University](https://www.monash.edu/){:target="_blank"}
+### Associate Professor and DECRA Fellow, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
 **Melbourne, VIC, Australia**
 </div>
 
 # EXPERIENCE
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/monash.jpg">](https://www.monash.edu/){:target="_blank"}
+
+_July 2020 --- July 2021_
+
+### Senior Lecturer and DECRA Fellow, [Faculty of Information Technology](https://www.monash.edu/it){:target="_blank"}, [Monash University](https://www.monash.edu/){:target="_blank"}
+**Melbourne, VIC, Australia**
+</div>
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/monash.jpg">](https://www.monash.edu/){:target="_blank"}
