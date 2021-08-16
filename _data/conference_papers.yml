@@ -1,4 +1,4 @@
-- title: BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search
+- title: BossNAS:Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search
   image: ICCV2021_BossNAS.png
   description: <ul><li>present Block-wisely Self-supervised Neural Architecture Search (BossNAS), an unsupervised NAS method that addresses the problem of in- accurate architecture rating caused by large weight-sharing space and biased supervision in previous methods</li></ul>
   authors: Changlin Li, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang and Xiaojun Chang
