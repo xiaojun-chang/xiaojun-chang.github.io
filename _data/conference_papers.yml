@@ -3,32 +3,40 @@
   description: <ul><li>introduce the inter-channel correlation, with the characteristics of being invariant to the spatial dimen- sion, to explore and measure both the feature diversity and homology to help the student for better represen- tation learning</li></ul>
   authors: Li Liu, Qingle Huang, Sihao Lin, Hongwei Xie, Bing Wang, <b>Xiaojun Chang*</b> and Xiaodan Liang
   venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: https://arxiv.org/pdf/2106.07876.pdf
-    display: paper
+    display: arxiv
+  link2:
+    url: https://www.xiaojun.ai/papers/ICCV2021_KD.pdf
+    display: pdf
   
-
 - title: Vision-Language Navigation with Random Environmental Mixup
   image: ICCV2021_REM.png
   description: <ul><li>propose the Random Environmen- tal Mixup (REM) method, which generates cross-connected house scenes as augmented data via mixuping environment</li></ul>
   authors: Chong Liu, Fengda Zhu, <b>Xiaojun Chang</b>, Xiaodan Liang, Zongyuan Ge and Yi-Dong Shen
   venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
-  number_link: 1
+  number_link: 2
   link1:
     url: https://arxiv.org/pdf/2106.07876.pdf
-    display: paper
+    display: arxiv
+  link2:
+    url: https://www.xiaojun.ai/papers/ICCV2021__Vision_Language_Navigation_with_Random_Environmental_Mixup.pdf
+    display: pdf
 
 - title: BossNAS:Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search
   image: ICCV2021_BossNAS.png
   description: <ul><li>present Block-wisely Self-supervised Neural Architecture Search (BossNAS), an unsupervised NAS method that addresses the problem of in- accurate architecture rating caused by large weight-sharing space and biased supervision in previous methods</li></ul>
   authors: Changlin Li, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang and <b>Xiaojun Chang</b>
   venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
-  number_link: 2
+  number_link: 3
   link1:
     url: https://arxiv.org/pdf/2103.12424.pdf
-    display: paper
+    display: arxiv
   link2:
+    url: https://www.xiaojun.ai/papers/ICCV21_Blockwisely_Self_Supervised_NAS.pdf
+    display: pdf
+  link3:
     url: https://github.com/changlin31/BossNAS
     display: [CODE]
 
