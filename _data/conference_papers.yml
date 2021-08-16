@@ -1,3 +1,16 @@
+- title: BossNAS: Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search
+  image: ICCV2021_BossNAS.png
+  description: <ul><li>present Block-wisely Self-supervised Neural Architecture Search (BossNAS), an unsupervised NAS method that addresses the problem of in- accurate architecture rating caused by large weight-sharing space and biased supervision in previous methods</li></ul>
+  authors: Changlin Li, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang and Xiaojun Chang
+  venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
+  number_link: 2
+  link1:
+    url: https://arxiv.org/pdf/2103.12424.pdf
+    display: paper
+  link2:
+    url: https://github.com/changlin31/BossNAS
+    display: [CODE]
+
 - title: Dynamic Slimmable Network
   image: CVPR2021_DSN.png
   description: <ul><li>propose a new dynamic network routing regime, achieving good hardware-efficiency by predictively adjusting filter numbers of networks at test time with respect to different inputs.</li></ul>
