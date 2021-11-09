@@ -1,7 +1,7 @@
 - title: ZeroNAS:Differentiable Generative Adversarial Networks Search for Zero-Shot Learning
   image: TPAMI-20-Yan.jpg
   description: <ul><li>Considering the varieties in datasets and tasks, we make the first attempt to bring NAS techniques into the realm of ZSL, and thus propose ZeroNAS to formulate the GAN architecture design for ZSL as a NAS problem.</li></ul>
-  authors: Caixia Yan, <b>Xiaojun Chang*</b>, Zhihui Li, Zongyuan Ge, Weili Guan, Lei Zhu and Qinghua Zheng
+  authors: Caixia Yan, <b>Xiaojun Chang*</b>, Zhihui Li, Weili Guan, Zongyuan Ge, Lei Zhu and Qinghua Zheng
   venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2021
   number_link: 1
   link1:
