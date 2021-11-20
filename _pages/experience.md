@@ -14,7 +14,7 @@ permalink: /experience
 
 _July 2021 --- present_
 
-### Associate Professor in Artificial Intelligence and DECRA Fellow, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
+### Associate Professor in Artificial Intelligence, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
 **Melbourne, VIC, Australia**
 </div>
 
