@@ -30,9 +30,10 @@ permalink: /my-team
 - Sihao Lin, PhD Student, from Sun Yat-sen University, July 2021
 
 ## Current Visiting Students
-- Zutao Jiang, PhD Student, from Xi'an Jiaotong University, September 2020 -
+
 
 ## Former Visiting Students
+- Zutao Jiang, PhD Student, from Xi'an Jiaotong University, September 2020 - July 2021
 - Di Yuan, PhD Student, from Harbin Institute of Technology, October 2019 - March 2021
 - Fenglei Xu, PhD Student, from Nanjing University of Science and Technology, September 2019 - June 2020
 
