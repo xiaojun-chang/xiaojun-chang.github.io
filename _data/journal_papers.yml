@@ -10,6 +10,16 @@
   link2:
     url: https://github.com/caixiay/ZeroNAS
     display: code
+    
+- title: A Comprehensive Survey of Scene Graphs:Generation and Application
+  image: TPAMI-20-Chang.jpg
+  description: <ul><li>This survey conducts a comprehensive investigation of the current scene graph research<li><ul>
+  authors: <b>Xiaojun Chang</b>, Pengzhen Ren, Pengfei Xu, Zhihui Li, Xiaojiang Chen and Alex Hauptmann
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2021
+  number_link: 1
+  link1:
+    url: https://www.xiaojun.ai/
+    display: pdf
 
 - title: A Comprehensive Survey of Neural Architecture Search:Challenges and Solutions
   image: CSUR-NAS.jpg
