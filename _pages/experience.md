@@ -10,15 +10,34 @@ permalink: /experience
 # CURRENT
 
 <div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/uts.jpg">](https://www.uts.edu.au/){:target="_blank"}
+
+_February 2022 --- present_
+
+### Professor in Artificial Intelligence, [Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute){:target="_blank"}, [Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology){:target="_blank"}, [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Australia
+
+**Sydney, NSW, Australia**
+</div>
+
+<div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
 
-_July 2021 --- present_
+_February 2022 --- present_
 
-### Associate Professor in Artificial Intelligence, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
+### Honorary Professor in Artificial Intelligence, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
 **Melbourne, VIC, Australia**
 </div>
 
 # EXPERIENCE
+
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
+
+_July 2021 --- February 2022_
+
+### Associate Professor in Artificial Intelligence, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
+**Melbourne, VIC, Australia**
+</div>
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/monash.jpg">](https://www.monash.edu/){:target="_blank"}
