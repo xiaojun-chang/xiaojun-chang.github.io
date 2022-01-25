@@ -14,7 +14,7 @@ permalink: /experience
 
 _February 2022 --- present_
 
-### Professor in Artificial Intelligence, [Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute){:target="_blank"}, [Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology){:target="_blank"}, [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}, Australia
+### Professor in Artificial Intelligence, [Australian Artificial Intelligence Institute](https://www.uts.edu.au/research/australian-artificial-intelligence-institute){:target="_blank"}, [Faculty of Engineering and Information Technology](https://www.uts.edu.au/about/faculty-engineering-and-information-technology){:target="_blank"}, [University of Technology Sydney](https://www.uts.edu.au/){:target="_blank"}
 
 **Sydney, NSW, Australia**
 </div>
