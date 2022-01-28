@@ -22,7 +22,7 @@ _February 2022 --- present_
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
 
-_February 2022 --- present_
+_February 2022 --- February 2025_
 
 ### Honorary Professor in Artificial Intelligence, [School of Computing Technologies](https://www.rmit.edu.au/about/schools-colleges/computing-technologies){:target="_blank"}, [RMIT University](https://www.rmit.edu.au/){:target="_blank"}
 **Melbourne, VIC, Australia**
