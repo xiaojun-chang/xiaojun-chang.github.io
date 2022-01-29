@@ -7,9 +7,9 @@ permalink: /experience
 
 | <a href="mailto:cxj273#gmail.com" target="_blank" style="text-align:center; display:block"><i class="fa fa-envelope ai-3x"></i></a> | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-google ai-3x"></i></a> | <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-linkedin ai-3x"></i></a> | <a href="https://www.rmit.edu.au/contact/staff-contacts/academic-staff/c/chang---xiaojun" target="_blank" style="text-align:center; display:block"><i class="fa fa-graduation-cap ai-3x"></i></a> |
 
-<!--
-# CURRENT
 
+# CURRENT
+<!--
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/uts.jpg">](https://www.uts.edu.au/){:target="_blank"}
 
@@ -19,6 +19,7 @@ _February 2022 --- present_
 
 **Sydney, NSW, Australia**
 </div>
+-->
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
@@ -29,7 +30,7 @@ _February 2022 --- February 2025_
 **Melbourne, VIC, Australia**
 </div>
 
--->
+
 
 # EXPERIENCE
 
