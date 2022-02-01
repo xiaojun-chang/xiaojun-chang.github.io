@@ -9,7 +9,7 @@ permalink: /experience
 
 
 # CURRENT
-<!--
+
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/uts.jpg">](https://www.uts.edu.au/){:target="_blank"}
 
@@ -19,7 +19,7 @@ _February 2022 --- present_
 
 **Sydney, NSW, Australia**
 </div>
--->
+
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
