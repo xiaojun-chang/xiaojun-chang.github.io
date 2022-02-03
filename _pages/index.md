@@ -1,5 +1,5 @@
 ---
-title: Xiaojun Chang@RMIT University
+title: Xiaojun Chang@UTS
 layout: default
 excerpt: Home page of Xiaojun Chang's website
 permalink: /
