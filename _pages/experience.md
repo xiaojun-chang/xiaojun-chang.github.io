@@ -1,5 +1,5 @@
 ---
-title: Xiaojun Chang's work experience
+title: Prof Xiaojun Chang's work experience
 layout: default
 excerpt: All the companies and places Xiaojun Chang has worked at, and the jobs
 permalink: /experience
