@@ -1,5 +1,5 @@
 ---
-title: Xiaojun Chang@UTS
+title: Prof Xiaojun Chang@UTS
 layout: default
 excerpt: Home page of Xiaojun Chang's website
 permalink: /
