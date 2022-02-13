@@ -1,7 +1,7 @@
 ---
-title: Xiaojun Chang's Team
+title: Prof Xiaojun Chang's Team
 layout: default
-excerpt: Xiaojun Chang's team details
+excerpt: Prof Xiaojun Chang's team details
 type: team
 permalink: /my-team
 ---
