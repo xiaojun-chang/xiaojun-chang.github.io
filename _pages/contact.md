@@ -1,5 +1,5 @@
 ---
-title: Xiaojun Chang's contact details
+title: Prof Xiaojun Chang's contact details
 layout: default
 excerpt: Xiaojun Chang's contact details
 type: contact
