@@ -1,7 +1,7 @@
 ---
-title: Xiaojun Chang's publications
+title: Prof Xiaojun Chang's publications
 layout: default
-excerpt: Xiaojun Chang's publications
+excerpt: Prof Xiaojun Chang's publications
 permalink: /publications
 ---
 
