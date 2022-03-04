@@ -37,7 +37,18 @@
   link1:
     url: https://www.xiaojun.ai/papers/CVPR2022_4.pdf
     display: pdf
-   
+
+- title: BaLeNAS:Differentiable Architecture Search via Bayesian Learning Rule
+  image: CVPR2022_5.jpg
+  description: <ul><li>this paper formulates the neural architecture search as a distribution learning problem through relaxing the architecture weights into
+Gaussian distributions</li></ul>
+  authors: M. Zhang, S. Pan, <b>X. Chang</b>, S. Su, J. Hu, R. Haffari, and B. Yang
+  venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
+  number_link: 1
+  link1:
+    url: https://www.xiaojun.ai/papers/CVPR2022_5.pdf
+    display: pdf
+
 - title: Dual-AI:Dual-path Actor Interaction Learning for Group Activity Recognition
   image: CVPR2022_6.jpg
   description: <ul><li>propose a distinct Dual-path Actor Interaction (DualAI) framework, which flexibly arranges spatial and temporal transformers in two complementary orders, enhancing actor relations by integrating merits from different spatiotemporal paths</li></ul>
