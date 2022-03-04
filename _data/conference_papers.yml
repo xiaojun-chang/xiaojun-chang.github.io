@@ -5,7 +5,7 @@
   venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
   number_link: 1
   link1:
-    url: #
+    url: https://www.xiaojun.ai/papers/CVPR2022_1.pdf
     display: pdf
 
 - title: Beyond Fixation:Dynamic Window Visual Transformer
@@ -15,7 +15,17 @@
   venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
   number_link: 1
   link1:
-    url: #
+    url: https://www.xiaojun.ai/papers/CVPR2022_2.pdf
+    display: pdf
+    
+- title: Self-Supervised Global-Local Structure Modeling for Point Cloud Domain Adaptation with Reliable Voted Pseudo Labels
+  image: CVPR2022_3.jpg
+  description: <ul><li>propose a global scaling-up-down prediction method and a local 3D-2D-3D projectionreconstruction method for point cloud domain adaptation</li></ul>
+  authors: H. Fan, <b>X. Chang</b>, W. Zhang, Y. Cheng, Y. Sun, and M. Kankanhalli
+  venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
+  number_link: 1
+  link1:
+    url: https://www.xiaojun.ai/papers/CVPR2022_3.pdf
     display: pdf
 
 - title: FFA-IR:Towards an Explainable and Reliable Medical Report Generation Benchmark
