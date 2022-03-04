@@ -7,7 +7,16 @@
   link1:
     url: #
     display: pdf
-  
+
+- title: Beyond Fixation: Dynamic Window Visual Transformer
+  image: CVPR2022_2.jpg
+  description: <ul><li>propose a novel plug-and-play module with a dynamic multi-scale window for multi-head selfattention in transformer</li></ul>
+  authors: P. Ren, C. Li, G. Wang, Y. Xiao, Q. Du, X. Liang, and <b>X. Chang</b>
+  venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
+  number_link: 1
+  link1:
+    url: #
+    display: pdf
 
 - title: FFA-IR:Towards an Explainable and Reliable Medical Report Generation Benchmark
   image: NeurIPS2021.jpg
