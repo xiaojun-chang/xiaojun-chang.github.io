@@ -27,6 +27,16 @@
   link1:
     url: https://www.xiaojun.ai/papers/CVPR2022_3.pdf
     display: pdf
+    
+- title: Automated Progressive Learning for Efficient Training of Vision Transformers
+  image: CVPR2022_4.jpg
+  description: <ul><li>develop a strong manual baseline for progressive learning of ViTs, by introducing MoGrow, a momentum growth strategy to bridge the gap brought by model growing</li></ul>
+  authors: C. Li, B. Zhuang, G. Wang, X. Liang, <b>X. Chang</b>, and Y. Yang
+  venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
+  number_link: 1
+  link1:
+    url: https://www.xiaojun.ai/papers/CVPR2022_4.pdf
+    display: pdf
 
 - title: FFA-IR:Towards an Explainable and Reliable Medical Report Generation Benchmark
   image: NeurIPS2021.jpg
