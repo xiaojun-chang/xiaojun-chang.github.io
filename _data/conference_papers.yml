@@ -8,7 +8,7 @@
     url: #
     display: pdf
 
-- title: Beyond Fixation: Dynamic Window Visual Transformer
+- title: Beyond Fixation:Dynamic Window Visual Transformer
   image: CVPR2022_2.jpg
   description: <ul><li>propose a novel plug-and-play module with a dynamic multi-scale window for multi-head selfattention in transformer</li></ul>
   authors: P. Ren, C. Li, G. Wang, Y. Xiao, Q. Du, X. Liang, and <b>X. Chang</b>
