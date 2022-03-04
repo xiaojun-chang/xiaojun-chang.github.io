@@ -1,7 +1,18 @@
+- title: Cross-modal Clinical Graph Transformer For Ophthalmic Report Generation
+  image: CVPR2022_1.jpg
+  description: <ul><li>we present an effective cross-modal clinical graph transformer for ophthalmic report generation</li></ul>
+  authors: M. Li, W. Cai, K. Verspoor, S. Pan, X. Liang and <b>X. Chang*</b>
+  venue: <a href="http://cvpr2022.thecvf.com/" target="_blank">CVPR 2022</a>
+  number_link: 1
+  link1:
+    url: #
+    display: pdf
+  
+
 - title: FFA-IR:Towards an Explainable and Reliable Medical Report Generation Benchmark
   image: NeurIPS2021.jpg
   description: <ul><li>present a new benchmark, FFA-IR, towards an explainable and reliable MRG benchmark based on FFA Images and Reports</li></ul>
-  authors: Mingjie Li, Wenjia Cai, Rui Liu, Yuetian Weng, Xiaoyun Zhao, Cong Wang, Xin Chen, Zhong Liu, Caineng Pan, Mengke Li, yingfeng zheng, Yizhi Liu, Flora D. Salim, Karin Verspoor, Xiaodan Liang, <b>Xiaojun Chang</b>
+  authors: M. Li, W. Cai, R. Liu, Y. Weng, X. Zhao, C. Wang, X. Chen, Z. Liu, C. Pan, M. Li, Y. Zheng, Y. Liu, F. D. Salim, K. Verspoor, X. Liang, <b>X. Chang*</b>
   venue: <a href="https://neurips.cc/" target="_blank">NeurIPS 2021</a>
   number_link: 1
   link1:
@@ -11,7 +22,7 @@
 - title: Exploring Inter-Channel Correlation for Diversity-preserved Knowledge Distillation
   image: ICCV2021_KD.png
   description: <ul><li>introduce the inter-channel correlation, with the characteristics of being invariant to the spatial dimen- sion, to explore and measure both the feature diversity and homology to help the student for better represen- tation learning</li></ul>
-  authors: Li Liu, Qingle Huang, Sihao Lin, Hongwei Xie, Bing Wang, <b>Xiaojun Chang*</b> and Xiaodan Liang
+  authors: L. Liu, Q. Huang, S. Lin, H. Xie, B. Wang, <b>X. Chang*</b> and X. Liang
   venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
   number_link: 3
   link1:
@@ -27,7 +38,7 @@
 - title: Vision-Language Navigation with Random Environmental Mixup
   image: ICCV2021_REM.png
   description: <ul><li>propose the Random Environmen- tal Mixup (REM) method, which generates cross-connected house scenes as augmented data via mixuping environment</li></ul>
-  authors: Chong Liu, Fengda Zhu, <b>Xiaojun Chang</b>, Xiaodan Liang, Zongyuan Ge and Yi-Dong Shen
+  authors: C. Liu, F. Zhu, <b>X. Chang</b>, X. Liang, Z. Ge and Y. Shen
   venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
   number_link: 2
   link1:
@@ -40,7 +51,7 @@
 - title: BossNAS:Exploring Hybrid CNN-transformers with Block-wisely Self-supervised Neural Architecture Search
   image: ICCV2021_BossNAS.png
   description: <ul><li>present Block-wisely Self-supervised Neural Architecture Search (BossNAS), an unsupervised NAS method that addresses the problem of in- accurate architecture rating caused by large weight-sharing space and biased supervision in previous methods</li></ul>
-  authors: Changlin Li, Tao Tang, Guangrun Wang, Jiefeng Peng, Bing Wang, Xiaodan Liang and <b>Xiaojun Chang</b>
+  authors: C. Li, T. Tang, G. Wang, J. Peng, B. Wang, X. Liang and <b>X. Chang</b>
   venue: <a href="http://iccv2021.thecvf.com/" target="_blank">ICCV 2021</a>
   number_link: 3
   link1:
@@ -56,7 +67,7 @@
 - title: Dynamic Slimmable Network
   image: CVPR2021_DSN.png
   description: <ul><li>propose a new dynamic network routing regime, achieving good hardware-efficiency by predictively adjusting filter numbers of networks at test time with respect to different inputs.</li></ul>
-  authors: Changlin Li, Guangrun Wang, Bing Wang, Xiaodan Liang, Zhihui Li, and <b>Xiaojun Chang</b>
+  authors: C. Li, G. Wang, B. Wang, X. Liang, Z. Li, and <b>X. Chang</b>
   venue: <a href="http://cvpr2021.thecvf.com/" target="_blank">CVPR 2021</a>
   number_link: 3
   link1:
@@ -72,7 +83,7 @@
 - title: SOON:Scenario Oriented Object Navigation with Graph-based Exploration
   image: CVPR2021_VSON.png
   description: <ul><li>propose a task named Scenario Oriented Object Navigation (SOON), in which an agent is instructed to find an object in a house from an arbitrary starting position</li></ul>
-  authors: Fengda Zhu, Xiwen Liang, Yi Zhu, <b>Xiaojun Chang</b>, Qizhi Yu, and Xiaodan Liang
+  authors: F. Zhu, X. Liang, Y. Zhu, <b>X. Chang</b>, Q. Yu, and X. Liang
   venue: <a href="http://cvpr2021.thecvf.com/" target="_blank">CVPR 2021</a>
   number_link: 1
   link1:
@@ -82,7 +93,7 @@
 - title: UPDeT:Universal Multi-agent RL via Policy Decoupling with Transformers
   image: ICLR2021_framework.png
   description: <ul><li>propose a universal policy decoupling transformer model that extends MARL to a much broader scenario</li></ul>
-  authors: Siyi Hu, Fengda Zhu, <b>Xiaojun Chang</b> and Xiaodan Liang
+  authors: S. Hu, F. Zhu, <b>X. Chang</b> and X. Liang
   venue: <a href="https://iclr.cc/Conferences/2021" target="_blank">ICLR 2021</a>
   number_link: 1
   link1:
@@ -92,7 +103,7 @@
 - title: iDARTS:Differentiable Architecture Search with Stochastic Implicit Gradients
   image: ICML2021_framework.png
   description: <ul><li>This paper deepens our understanding of the hypergradient calculation in the differentiable NAS. </li> </ul>
-  authors: Miao Zhang, Steven Su, Shirui Pan, <b>Xiaojun Chang</b>, Ehsan Abbasnejad and Reza Haffari
+  authors: M. Zhang, S. Su, S. Pan, <b>X. Chang</b>, E. Abbasnejad and R. Haffari
   venue: <a href="https://icml.cc/2021/" target="_blank">ICML 2021</a>
   number_link: 1
   link1:
@@ -102,7 +113,7 @@
 - title: Mining Inter-Video Proposal Relations for Video Object Detection
   image: 1594001465217.jpg
   description: <ul><li>design a novel Inter-Video Proposal Relation method, which can effectively leverage inter-video proposal relation to learn discriminative representations for video object detection</li></ul>
-  authors: Mingfei Han, Yali Wang, <b>Xiaojun Chang</b> and Yu Qiao
+  authors: M. Han, Y. Wang, <b>X. Chang</b> and Y. Qiao
   venue: <a href="https://eccv2020.eu/" target="_blank">ECCV 2020</a>
   number_link: 2
   link1:
@@ -116,7 +127,7 @@
 - title: Unsupervised Multimodal Neural Machine Translation with Pseudo Visual Pivoting
   image: ACL2020_Framework-NMT.jpg
   description: <ul><li>investigate how to utilize visual content for disambiguation and latent space alignment in unsupervised MMT</li></ul>
-  authors: Po-Yao Huang, Junjie Hu, <b>Xiaojun Chang</b> and Alexander Hauptmann
+  authors: P. Huang, J. Hu, <b>X. Chang</b> and A. Hauptmann
   venue: <a href="https://acl2020.org/" target="_blank">ACL 2020</a>
   number_link: 1
   link1:
@@ -126,7 +137,7 @@
 - title: Vision-language Navigation with Self-Supervised Auxiliary Reasoning Tasks
   image: CVPR2020_VLN_framework.png
   description: <ul><li>Introducing Auxiliary Reasoning Navigation (AuxRN), a framework with four self-supervised auxiliary reasoning tasks to take advantage of the additional training signals derived from the semantic information</li></ul>
-  authors: Fengda Zhu, Yi Zhu, <b>Xiaojun Chang</b>, Xiaodan Liang
+  authors: F. Zhu, Y. Zhu, <b>X. Chang</b>, X. Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 4
   link1:
@@ -145,7 +156,7 @@
 - title: ZSTAD:Zero-Shot Temporal Activity Detection
   image: CVPR2020_ZSTAD_framework.png
   description: <ul><li>Proposing a novel problem setting for temporal activity detection in which activities that are not seen during the training stage can be recognized and localized simultaneously</li></ul>
-  authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Sen Wang, Zongyuan Ge, Minnan Luo, Alexander Hauptmann
+  authors: L. Zhang, <b>X. Chang</b>, J. Liu, S. Wang, Z. Ge, M. Luo, A. Hauptmann
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 1
   link1:
@@ -155,7 +166,7 @@
 - title: Unity Style Transfer for Person Re-Identification
   image: CVPR2020_UST_framework.png
   description: <ul><li>smooth the style disparities within the same camera and across different cameras</li></ul>
-  authors: Chong Liu, <b>Xiaojun Chang</b>, Yi-Dong Shen
+  authors: C. Liu, <b>X. Chang</b>, Y. Shen
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 1
   link1:
@@ -165,7 +176,7 @@
 - title: Neural Architecture Search by Block-wisely Distilling Architecture Knowledge
   image: CVPR2020_NAS_framework.png
   description: <ul><li>modularize the large search space of NAS into blocks to ensure that the potential candidate architectures are fully trained</li></ul>
-  authors: Changlin Li, Jiefeng Peng, Liuchun Yuan, Guangrun Wang, Xiaodan Liang, Liang Lin, <b>Xiaojun Chang</b>
+  authors: C. Li, J. Peng, L. Yuan, G. Wang, X. Liang, L. Lin, <b>X. Chang</b>
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
@@ -179,7 +190,7 @@
   image: CVPR2020_VDN_framework.png
   description: <ul><li>learning an agent endowed with the capability of constant conversation for help with natural language and navigating according to human responses</li>
                    <li>propose a Cross-modal Memory Network (CMN) for remembering and understanding the rich information relevant to historical navigation actions</li></ul>
-  authors: Yi Zhu, Fengda Zhu, Zhao huan Zhan, Bingqian Lin, Jianbin Jiao, <b>Xiaojun Chang</b>, Xiaodan Liang
+  authors: Y. Zhu, F. Zhu, Z. Zhan, B. Lin, J. Jiao, <b>X. Chang</b>, X. Liang
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
@@ -192,7 +203,7 @@
 - title: Overcoming Multi-Model Forgetting in One-Shot NAS with Diversity Maximization
   image: CVPR2020_OSNAS_framework.png
   description: <ul><li>formulate the supernet training in the One-Shot NAS as a constrained optimization problem of continual learning that the learning of current architecture should not degrade the performance of previous architectures during the supernet training</li></ul>
-  authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Steven Su
+  authors: M. Zhang, H. Li, S. Pan, <b>X. Chang</b>, S. Su
   venue: <a href="http://cvpr2020.thecvf.com/" target="_blank">CVPR 2020</a>
   number_link: 2
   link1:
@@ -205,7 +216,7 @@
 - title: Differentiable Neural Architecture Search in Equivalent Space with Exploration Enhancement
   image: NeurIPS2020_2.jpg
   description: <ul><li>enhance the intelligent exploration of differentiable Neural Architecture Search in the latent space</li></ul>
-  authors: Miao Zhang, Huiqi Li, Shirui Pan, <b>Xiaojun Chang</b>, Zongyuan Ge and Steven Su
+  authors: M. Zhang, H. Li, S. Pan, <b>X. Chang</b>, Z. Ge and S. Su
   venue: <a href="https://neurips.cc/" target="_blank">NeurIPS 2020</a>
   number_link: 2
   link1:
@@ -218,7 +229,7 @@
 - title: Hierarchical Neural Architecture Search for Deep Stereo Matching
   image: NeurIPS2020_1.jpg
   description: <ul><li>leverage the volumetric stereo matching pipeline and allow the network to automat70 ically select the optimal structures for both the Feature Net and the Matching Net</li></ul>
-  authors: Xuelian Cheng, Yiran Zhong, Mehrtash Harandi, Yuchao Dai, <b>Xiaojun Chang</b>, Hongdong Li, Tom Drummond, and Zongyuan Ge
+  authors: X. Cheng, Y. Zhong, M. Harandi, Y. Dai, <b>X. Chang</b>, H. Li, T. Drummond, and Z. Ge
   venue: <a href="https://neurips.cc/" target="_blank">NeurIPS 2020</a>
   number_link: 2
   link1:
@@ -231,7 +242,7 @@
 - title: Multi-Head Attention with Diversity for Learning Grounded Multilingual Multimodal Representations
   image: EMNLP2019_MHA_framework.png
   description: <ul><li>leveraging visual object detection and propose a model with diverse multi-head attention to learn grounded multilingual multimodal representations</li></ul>
-  authors: Po-Yao Huang, <b>Xiaojun Chang</b>, Alexander G. Hauptmann
+  authors: P. Huang, <b>X. Chang</b>, A. G. Hauptmann
   venue: <a href="https://www.emnlp-ijcnlp2019.org/" target="_blank">EMNLP 2019</a>
   number_link: 1
   link1:
@@ -241,7 +252,7 @@
 - title: Annotation Efficient Cross-Modal Retrieval with Adversarial Attentive Alignment
   image: ACMMM2019_AECMR_framework.png
   description: <ul><li>propose a novel framework to leverage automatically extracted regional semantics from un-annotated images as additional weak supervision to learn visual-semantic embeddings</li></ul>
-  authors: Po-Yao Huang, Guoliang Kang, Wenhe Liu, <b>Xiaojun Chang</b>, Alexander G. Hauptmann
+  authors: P. Huang, G. Kang, W. Liu, <b>X. Chang</b>, A. G. Hauptmann
   venue: <a href="https://2019.acmmm.org/" target="_blank">ACM MM 2019</a>
   number_link: 1
   link1:
@@ -251,7 +262,7 @@
 - title: RCAA:Relational Context-Aware Agents for Person Search
   image: ECCV2018_RCAA_framework.png
   description: <ul><li>made the earliest attempt to address the person search problem and built the first deep reinforcement learning based person search framework</li></ul>
-  authors: <b>Xiaojun Chang</b>, Po-Yao Huang, Yi-Dong Shen, Xiaodan Liang, Yi Yang and Alexander G. Hauptmann
+  authors: <b>X. Chang</b>, P. Huang, Y. Shen, X. Liang, Y. Yang and A. G. Hauptmann
   venue: <a href="https://eccv2018.org/" target="_blank">ECCV 2018</a>
   number_link: 1
   link1:
@@ -261,7 +272,7 @@
 - title: Reinforcement Cutting-Agent Learning for Video Object Segmentation
   image: CVPR2018_RCA_framework.png
   description: <ul><li>make a pioneer effort to formulate the video object segmentation problem as a Markov Decision Process and propose a novel reinforcement cutting-agent learning framework to tackle this problem</li></ul>
-  authors: Junwei Han, Le Yang, Dingwen Zhang, <b>Xiaojun Chang</b>, Xiaodan Liang
+  authors: J. Han, L. Yang, D. Zhang, <b>X. Chang</b>, X. Liang
   venue: <a href="http://cvpr2018.thecvf.com/" target="_blank">CVPR 2018</a>
   number_link: 1
   link1:
@@ -271,7 +282,7 @@
 - title: Complex Event Detection by Identifying Reliable Shots from Untrimmed Videos
   image: ICCV2017_CED_framework.png
   description: <ul><li>simultaneously learns a linear SVM classifier and infers a binary indicator for each instance in order to select reliable training instances from each positive or negative bag</li></ul>
-  authors: Hehe Fan, <b>Xiaojun Chang</b>, De Cheng, Yi Yang, Dong Xu, Alexander G. Hauptmann
+  authors: H. Fan, <b>X. Chang</b>, D. Cheng, Y. Yang, D. Xu, A. G. Hauptmann
   venue: <a href="http://iccv2017.thecvf.com/" target="_blank">ICCV 2017</a>
   number_link: 1
   link1:
@@ -281,7 +292,7 @@
 - title: They are Not Equally Reliable:Semantic Event Search Using Differentiated Concept Classifiers
   image: CVPR2016_NotER_framework.png
   description: <ul><li>combine the concept classifiers based on a principled estimate of their accuracy on the unlabeled test videos</li></ul>
-  authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Eric P. Xing
+  authors: <b>X. Chang</b>, Y. Yu, Y. Yang, E. P. Xing
   venue: <a href="http://cvpr2016.thecvf.com/" target="_blank">CVPR 2016</a>
   number_link: 1
   link1:
@@ -291,7 +302,7 @@
 - title: Complex Event Detection using Semantic Saliency and Nearly-Isotonic SVM
   image: ICML2015_NISVM_framework.png
   description: <ul><li>define a novel notion of semantic saliency that assesses the relevance of each shot with the event of interest</li></ul>
-  authors: <b>Xiaojun Chang</b>, Yi Yang, Eric P. Xing, Yao-Liang Yu
+  authors: <b>X. Chang</b>, Y. Yang, E. P. Xing, Y. Yu
   venue: <a href="https://icml.cc/2015/" target="_blank">ICML 2015</a>
   number_link: 2
   link1:
@@ -304,7 +315,7 @@
 - title: Searching Persuasively:Joint Event Detection and Evidence Recounting with Limited Supervision
   image: ACMMM2015_SP_framework.png
   description: <ul><li>propose a joint framework that simultaneously detects high-level events and localizes the indicative concepts of the events</li></ul>
-  authors: <b>Xiaojun Chang</b>, Yao-Liang Yu, Yi Yang, Alexander G. Hauptmann
+  authors: <b>X. Chang</b>, Y. Yu, Y. Yang, A. G. Hauptmann
   venue: <a href="" target="_blank">ACM MM 2015</a>
   number_link: 1
   link1:
