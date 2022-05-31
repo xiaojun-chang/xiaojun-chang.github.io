@@ -1,3 +1,13 @@
+- title: Video Pivoting Unsupervised Multi-modal Machine Translation
+  image: TPAMI-22-Li.jpg
+  description: <ul><li>We propose a novel method to leverage visual contents to synthesize additional pseudo-pivoting for unsupervised multimodal machine translation.</li></ul>
+  authors: Mingjie Li, Poyao Huang, Xiaojun Chang, Junjie Hu, Yi Yang and Alex Hauptmann
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2022
+  number_link: 1
+  link1:
+    url: https://arxiv.org/
+    display: pdf
+
 - title: Semantics-Guided Contrastive Network for Zero-Shot Object Detection
   image: TPAMI-21-Yan.jpg
   description: <ul><li>We develop a novel semantics-guided contrastive net- work for ZSD, underpinned by a new mapping- contrastive strategy superior to the conventional mapping-transfer strategy. To the best of our knowl- edge, this is the first work that applies contrastive learning mechanism for ZSD.</li></ul>
