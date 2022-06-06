@@ -11,16 +11,6 @@ permalink: /publications
 
 Full paper list can be found at [DBLP](https://dblp.org/pers/c/Chang:Xiaojun.html) and [Google Scholar](https://scholar.google.com/citations?hl=en&user=8suupocAAAAJ).
 
-## CONFERENCE PAPERS
-
-{% for publication in site.data.conference_papers %}
-
-{% include publications.html %}
-
-{% endfor %}
-
-<p>&nbsp;</p>
-
 ## JOURNAL PAPERS
 
 {% for publication in site.data.journal_papers %}
@@ -31,6 +21,16 @@ Full paper list can be found at [DBLP](https://dblp.org/pers/c/Chang:Xiaojun.htm
 
 <p>&nbsp;</p>
 
+
+## CONFERENCE PAPERS
+
+{% for publication in site.data.conference_papers %}
+
+{% include publications.html %}
+
+{% endfor %}
+
+<p>&nbsp;</p>
 
 ## PREPRINTS
 
