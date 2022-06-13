@@ -1,3 +1,13 @@
+- title: TN-ZSTAD:Transferable Network for Zero-Shot Temporal Activity Detection
+  image: TPAMI22-Zhang.jpg
+  description: <ul><li>We propose a novel framework TN-ZSTAD for zero-shot temporal activity detection, which combines a graph activity transformer (AGT) and a zeroshot detection subnet (ZSDN) together to infer a set of unseen activity instances for a input video directly.</li></ul>
+  authors: Lingling Zhang, <b>Xiaojun Chang</b>, Jun Liu, Minnan Luo, Zhihui Li, Lina Yao, and Alex Hauptmann
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2022
+  number_link: 1
+  link1:
+    url: https://arxiv.org/
+    display: pdf
+
 - title: Video Pivoting Unsupervised Multi-modal Machine Translation
   image: TPAMI-22-Li.jpg
   description: <ul><li>We propose a novel method to leverage visual contents to synthesize additional pseudo-pivoting for unsupervised multimodal machine translation.</li></ul>
