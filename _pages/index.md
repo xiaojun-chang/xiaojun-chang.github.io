@@ -19,6 +19,8 @@ He received the Ph.D. degree in Centre for Artificial Intelligence & Faculty of 
 
 His general research interest is to develop structured machine learning models for computer vision and multimedia tasks. He mainly investigates how to explore the information contained in videos and develop the advanced artificial intelligence systems. Recently, he focuses on the following topics, include:
 
+- Human-Centred AI, including human parsing, gaze behavior analysis, etc.
+
 - Video Analysis, including event detection, object detection, segmentation.
 
 - Multi-Agent Reinforcement Learning.
