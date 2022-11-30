@@ -1,3 +1,16 @@
+- title: ZeroNAS:Differentiable Generative Adversarial Networks Search for Zero-Shot Learning
+  image: TPAMI-20-Yan.jpg
+  description: <ul><li>Considering the varieties in datasets and tasks, we make the first attempt to bring NAS techniques into the realm of ZSL, and thus propose ZeroNAS to formulate the GAN architecture design for ZSL as a NAS problem.</li></ul>
+  authors: Caixia Yan, <b>Xiaojun Chang*</b>, Zhihui Li, Weili Guan, Zongyuan Ge, Lei Zhu and Qinghua Zheng
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. 44(12):9733-9740 (2022)
+  number_link: 2
+  link1:
+    url: https://www.xiaojun.ai/papers/TPAMI-2020-10-1496.pdf
+    display: pdf
+  link2:
+    url: https://github.com/caixiay/ZeroNAS
+    display: code
+
 - title: DS-Net++:Dynamic Weight Slicing for Efficient Inference in CNNs and Vision Transformers
   image: CVPR2021_DSN.png
   description: <ul><li>propose dynamic weight slicing scheme, achieving good hardware-efficiency by predictively slicing network parameters at test time with respect to different inputs.</li></ul>
@@ -38,18 +51,6 @@
     url: https://arxiv.org/pdf/2109.06062.pdf
     display: pdf
 
-- title: ZeroNAS:Differentiable Generative Adversarial Networks Search for Zero-Shot Learning
-  image: TPAMI-20-Yan.jpg
-  description: <ul><li>Considering the varieties in datasets and tasks, we make the first attempt to bring NAS techniques into the realm of ZSL, and thus propose ZeroNAS to formulate the GAN architecture design for ZSL as a NAS problem.</li></ul>
-  authors: Caixia Yan, <b>Xiaojun Chang*</b>, Zhihui Li, Weili Guan, Zongyuan Ge, Lei Zhu and Qinghua Zheng
-  venue: IEEE Trans. Pattern Anal. Mach. Intell. 44(12): 9733-9740 (2022)
-  number_link: 2
-  link1:
-    url: https://www.xiaojun.ai/papers/TPAMI-2020-10-1496.pdf
-    display: pdf
-  link2:
-    url: https://github.com/caixiay/ZeroNAS
-    display: code
     
 - title: A Comprehensive Survey of Scene Graphs:Generation and Application
   image: TPAMI-20-Chang.jpg
