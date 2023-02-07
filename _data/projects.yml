@@ -5,9 +5,7 @@
 
 - title: A Machine Learning Framework for Concrete Workability Estimation
   image: LP2022-1.jpg
-  description: <ul><li>Develop a vision-based method for monitoring concrete's workability in the mixing bowl that is more accurate than other non-vision-based approaches.</li>
-  <li>Improve workability predictions by integrating multimodal data, i.e., machine vision and machine learning, with other sensors on agitator trucks, e.g., hydraulic pressure and rotation measurements.</li>
-  <li>Validate the effectiveness of developed technologies in practice through extensive field trials.</li></ul>
+  description: <ul><li>Develop a vision-based method for monitoring concrete's workability in the mixing bowl that is more accurate than other non-vision-based approaches.</li><li>Improve workability predictions by integrating multimodal data, i.e., machine vision and machine learning, with other sensors on agitator trucks, e.g., hydraulic pressure and rotation measurements.</li><li>Validate the effectiveness of developed technologies in practice through extensive field trials.</li></ul>
   venue: <a href="https://www.arc.gov.au/" target="_blank">Australian Research Council</a> Linkage Projects, granted in 2023
 
 #- title: Micro-Video Understanding with Noisy Labels
