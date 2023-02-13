@@ -1,3 +1,23 @@
+- title: Video Pivoting Unsupervised Multi-modal Machine Translation
+  image: TPAMI-22-Li.jpg
+  description: <ul><li>We propose a novel method to leverage visual contents to synthesize additional pseudo-pivoting for unsupervised multimodal machine translation.</li></ul>
+  authors: Mingjie Li, Poyao Huang, <b>Xiaojun Chang*</b>, Junjie Hu, Yi Yang and Alex Hauptmann
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. 45(3): 3918-3932 (2023)
+  number_link: 1
+  link1:
+    url: https://ieeexplore.ieee.org/document/9792411
+    display: pdf
+
+- title: TN-ZSTAD:Transferable Network for Zero-Shot Temporal Activity Detection
+  image: TPAMI22-Zhang.jpg
+  description: <ul><li>We propose a novel framework TN-ZSTAD for zero-shot temporal activity detection, which combines a graph activity transformer (AGT) and a zeroshot detection subnet (ZSDN) together to infer a set of unseen activity instances for a input video directly.</li></ul>
+  authors: Lingling Zhang, <b>Xiaojun Chang*</b>, Jun Liu, Minnan Luo, Zhihui Li, Lina Yao, and Alex Hauptmann
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. 45(3): 3848-3861 (2023)
+  number_link: 1
+  link1:
+    url: https://ieeexplore.ieee.org/document/9797852
+    display: pdf
+
 - title: A Comprehensive Survey of Scene Graphs:Generation and Application
   image: TPAMI-20-Chang.jpg
   description: <ul><li>This survey conducts a comprehensive investigation of the current scene graph research</li></ul>
@@ -31,25 +51,6 @@
     url: https://arxiv.org/
     display: pdf
 
-- title: TN-ZSTAD:Transferable Network for Zero-Shot Temporal Activity Detection
-  image: TPAMI22-Zhang.jpg
-  description: <ul><li>We propose a novel framework TN-ZSTAD for zero-shot temporal activity detection, which combines a graph activity transformer (AGT) and a zeroshot detection subnet (ZSDN) together to infer a set of unseen activity instances for a input video directly.</li></ul>
-  authors: Lingling Zhang, <b>Xiaojun Chang*</b>, Jun Liu, Minnan Luo, Zhihui Li, Lina Yao, and Alex Hauptmann
-  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), DOI:10.1109/TPAMI.2022.3183586, 2022
-  number_link: 1
-  link1:
-    url: https://arxiv.org/
-    display: pdf
-
-- title: Video Pivoting Unsupervised Multi-modal Machine Translation
-  image: TPAMI-22-Li.jpg
-  description: <ul><li>We propose a novel method to leverage visual contents to synthesize additional pseudo-pivoting for unsupervised multimodal machine translation.</li></ul>
-  authors: Mingjie Li, Poyao Huang, <b>Xiaojun Chang*</b>, Junjie Hu, Yi Yang and Alex Hauptmann
-  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), DOI:10.1109/TPAMI.2022.3181116, 2022
-  number_link: 1
-  link1:
-    url: https://arxiv.org/
-    display: pdf
 
 - title: Semantics-Guided Contrastive Network for Zero-Shot Object Detection
   image: TPAMI-21-Yan.jpg
