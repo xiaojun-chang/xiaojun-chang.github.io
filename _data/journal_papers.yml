@@ -13,7 +13,7 @@
   description: <ul><li>This paper provides a comprehensive survey of recent research on using knowledge distillation (KD) techniques to improve the efficiency and accuracy of object detection models.</li></ul>
   authors: Zhihui Li, Pengfei Xu, <b>Xiaojun Chang</b>, Luyao Yang, Yuanyuan Zhang, Lina Yao and Xiaojiang Chen
   venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), DOI:10.1109/TPAMI.2023.3257546, 2023
-  umber_link: 1
+  number_link: 1
   link1:
     url: https://ieeexplore.ieee.org/document/10070820
     display: pdf
