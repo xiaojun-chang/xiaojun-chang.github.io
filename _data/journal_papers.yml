@@ -55,7 +55,7 @@
   image: CVPR2021_DSN.png
   description: <ul><li>propose dynamic weight slicing scheme, achieving good hardware-efficiency by predictively slicing network parameters at test time with respect to different inputs.</li></ul>
   authors: Changlin Li, Guangrun Wang, Xiaodan Liang, Zhihui Li, and <b>Xiaojun Chang*</b>
-  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), DOI:10.1109/TPAMI.2022.3194044, 2022
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. 45(4):4430-4446 (2023)
   number_link: 1
   link1:
     url: https://arxiv.org/
