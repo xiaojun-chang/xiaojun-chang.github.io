@@ -18,6 +18,16 @@
     url: https://ieeexplore.ieee.org/document/10070820
     display: pdf
 
+- title: Attribute-guided Collaborative Learning for Partial Person Re-identification
+  image: TPAMI23-reid.jpg
+  description: <ul><li>We present a novel attribute-guided collaborative learning scheme for partial person ReID. It jointly integrates noisy keypoint restraint, structured multi-modal representation aggregation, and robust pedestrian representation learning into a unified framework. </li></ul>
+  authors: Haoyu Zhang, Meng Liu, Yuhong Li, Ming Yan, Zan Gao, <b>Xiaojun Chang</b>, Liqiang Nie
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2023
+  number_link: 1
+  link1:
+    url: #
+    display: pdf
+
 - title: TN-ZSTAD:Transferable Network for Zero-Shot Temporal Activity Detection
   image: TPAMI22-Zhang.jpg
   description: <ul><li>We propose a novel framework TN-ZSTAD for zero-shot temporal activity detection, which combines a graph activity transformer (AGT) and a zeroshot detection subnet (ZSDN) together to infer a set of unseen activity instances for a input video directly.</li></ul>
