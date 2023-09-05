@@ -68,7 +68,15 @@
     url: https://www.xiaojun.ai/papers/CVPR2022_7.pdf
     display: pdf
 
-
+- title: An Efficient Spatio-Temporal Pyramid Transformer for Action Detection
+  image: ECCV2022_1.jpg
+  description: <ul><li>
+  authors: Y. Weng, Z. Pan, M. Han, <b>X. Chang</b> and B. Zhuang
+  venue: <a href="https://eccv2022.ecva.net/" target="_blank">ECCV 2022</a>
+  number_link: 1
+  link1:
+    url: https://link.springer.com/chapter/10.1007/978-3-031-19830-4_21
+    display: pdf
 
 - title: FFA-IR:Towards an Explainable and Reliable Medical Report Generation Benchmark
   image: NeurIPS2021.jpg
