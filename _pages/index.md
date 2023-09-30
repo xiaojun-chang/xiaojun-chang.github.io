@@ -21,11 +21,11 @@ Dr Chang's research interests revolve around developing structured machine learn
 
 - Video Analysis, including event detection, object detection, segmentation.
 
+- Multi-Modal Foundation Models.
+
+- Medical Foundation Models.
+
 - Multi-Agent Reinforcement Learning.
-
-- Vision-Language Grounding, including vision-language navigation, vision-and-dialog navigation, and medical report generation.
-
-- Automated Machine Learning (AutoML).
 
 
 ## News
