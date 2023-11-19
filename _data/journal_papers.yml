@@ -38,6 +38,16 @@
     url: #
     display: pdf
 
+- title: DNA Family:Boosting Weight-Sharing NAS with Block-Wise Supervisions
+  image: ICCV2021_BossNAS.png
+  description: <ul><li>We use a generalization boundedness tool to attribute weight-sharing NAS’s ineffectiveness to unreliable architecture ratings caused by large search space.</li></ul>
+  authors: Guangrun Wang, Changlin Li, Liuchun Yuan, Jiefeng Peng, Xiaoyu Xian, Xiaodan Liang, <b>Xiaojun Chang</b> and Liang Lin
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2023
+  number_link: 1
+  link1:
+    url: #
+    display: pdf
+
 - title: TN-ZSTAD:Transferable Network for Zero-Shot Temporal Activity Detection
   image: TPAMI22-Zhang.jpg
   description: <ul><li>We propose a novel framework TN-ZSTAD for zero-shot temporal activity detection, which combines a graph activity transformer (AGT) and a zeroshot detection subnet (ZSDN) together to infer a set of unseen activity instances for a input video directly.</li></ul>
