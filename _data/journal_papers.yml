@@ -22,7 +22,7 @@
   image: TPAMI23-reid.jpg
   description: <ul><li>We present a novel attribute-guided collaborative learning scheme for partial person ReID. It jointly integrates noisy keypoint restraint, structured multi-modal representation aggregation, and robust pedestrian representation learning into a unified framework. </li></ul>
   authors: Haoyu Zhang, Meng Liu, Yuhong Li, Ming Yan, Zan Gao, <b>Xiaojun Chang</b>, Liqiang Nie
-  venue: IEEE Trans. Pattern Anal. Mach. Intell. (T-PAMI), 2023
+  venue: IEEE Trans. Pattern Anal. Mach. Intell. 45(12): 14144-14160 (2023)
   number_link: 1
   link1:
     url: #
