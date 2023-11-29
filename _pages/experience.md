@@ -20,6 +20,14 @@ _February 2022 --- present_
 **Sydney, NSW, Australia**
 </div>
 
+<div class="experience-box" markdown="1">
+[<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/mbzuai.jpeg">](https://www.mbzuai.ac.ae/){:target="_blank"}
+
+_September 2023 --- February 2024_
+
+### Visiting Professor in Computer Vision, [Department of Computer Vision](https://www.mbzuai.ac.ae/){:target="_blank"}, [MBZUAI](https://www.mbzuai.ac.ae/){:target="_blank"}
+**Masdar City, Abu Dhabi, UAE**
+</div>
 
 <div class="experience-box" markdown="1">
 [<img class="experience-picture" src="{{site.url}}{{site.baseurl}}/images/experience/rmit.png">](https://www.rmit.edu.au/){:target="_blank"}
