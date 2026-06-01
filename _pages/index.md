@@ -1,5 +1,5 @@
 ---
-title: Prof Xiaojun Chang@UTS
+title: Prof Xiaojun Chang@USTC
 layout: default
 excerpt: Home page of Xiaojun Chang's website
 permalink: /
@@ -9,33 +9,33 @@ permalink: /
 
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
-Dr Xiaojun Chang joined UTS as a Professor in the Australian Artificial Intelligence Institute (AAII) in 2022, bringing his globally renowned expertise in artificial intelligence, computer vision, multimedia, neural networks and machine learning. He is also a Visiting Professor in the Department of Computer Vision at Mohamed bin Zayed University of Artificial Intelligence (MBZUAI).
+Prof Xiaojun Chang is a Chair Professor at the University of Science and Technology of China (USTC), a National High-Level Talent, and a Distinguished Overseas Talent of the Chinese Academy of Sciences. He is also the recipient of the Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA).
 
-At AAII, he is the Director of the Recognition, Learning and Reasoning Lab [(ReLER)](http://reler.net/){:target="_blank"} where he explores multiple signals (visual, acoustic, textual) for automatic content analysis in unconstrained or surveillance videos. 
+Prof Chang leads research at the intersection of Embodied Artificial Intelligence, Multimodal Foundation Models, and Brain-Inspired Intelligence. His work focuses on developing intelligent systems that can perceive, reason, learn, and act autonomously in complex real-world environments. By integrating multimodal perception, large-scale reasoning, memory, and decision-making, his research aims to advance the next generation of general-purpose intelligent agents.
 
-Prior to this, Xiaojun received his PhD in Computer Science from UTS in 2016 before moving to Carnegie Mellon University in the U.S. as a postdoctoral research associate. After being awarded an ARC DECRA in 2018, Xiaojun returned to Australia to take up a lecturer position at Monash University. He was promoted to Senior Lecturer in 2020, then joined RMIT University as an Associate Professor in 2021. 
+Prior to joining USTC, Prof Chang held academic positions at Monash University, RMIT University, the Australian Artificial Intelligence Institute (AAII) at the University of Technology Sydney (UTS), and Mohamed bin Zayed University of Artificial Intelligence (MBZUAI). Throughout his career, he has established internationally recognized research programs in computer vision, multimedia understanding, machine learning, and artificial intelligence.
 
-With a focus on real-world outcomes, Xiaojun has secured over $3 million in research funding and has made significant contributions to the field of video analysis and multimedia information retrieval, including for health care and management. 
+Prof Chang has led numerous national and industry-funded research projects and has published more than 150 papers in leading journals and conferences, including IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), International Journal of Computer Vision (IJCV), CVPR, ICCV, ECCV, NeurIPS, ICML, and ICLR. His publications have received about 30,000 citations according to Google Scholar, with 21 papers recognized as ESI Highly Cited or Hot Papers.
 
-Xiaojun was named a Clarivate Analytics Highly Cited Researcher in 2019, 2020, 2021 and 2023, and his work has been covered by media from Australia, US, Europe and China, including his ground-breaking work developing an automatic report generation system for critically ill COVID-19 patients using deep learning techniques.
+In recognition of his scientific contributions, Prof Chang was named a Clarivate Highly Cited Researcher for seven consecutive years from 2019 to 2025 and was selected as an Elsevier Highly Cited Chinese Researcher in 2024. His research has been widely adopted and reported internationally, spanning applications in healthcare, intelligent systems, multimodal learning, and large foundation models.
 
-His team has won multiple prizes from international grand challenges, hosting competitive teams from MIT, University of Maryland, Facebook AI Research (FAIR) and Baidu VIS. He also won first prize in TrecVID 2019 - Activity Extended Video (ActEV) challenge, held by the National Institute of Standards and Technology in the U.S.
+Prof Chang actively contributes to the global research community through editorial and leadership roles. He serves as Associate Editor for IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI), IEEE Transactions on Circuits and Systems for Video Technology (TCSVT), IEEE Transactions on Neural Networks and Learning Systems (TNNLS), and ACM Transactions on Multimedia Computing, Communications, and Applications (TOMM), and regularly serves as Area Chair for premier international conferences in artificial intelligence, computer vision, and machine learning.
 
-Xiaojun engages regularly with industry and has published a total of over 200 peer reviewed research papers and top conference papers. He has also served as an area chair for many prestigious international conferences, such as ACM Multimedia 2019, 2020, 2021 and 2022, IJCAI 2018, and ICPR 2018. Xiaojun has reviewed ARC Discovery Grant applications and served as an Associate Editor and Guest Editor on multiple prestigious journals.
+His long-term vision is to establish the scientific foundations of Embodied Artificial General Intelligence (AGI). He aims to develop intelligent agents that continuously learn from experience, interact effectively with the physical world, and collaborate with humans to address complex scientific and societal challenges.
 
-Incredibly passionate about his work, Xiaojun’s ultimate aim is to advance the field of artificial intelligence to better serve humanity by creating more accurate and efficient computational models that can understand and interact with the real world in a meaningful way.
 
 ## Research Interests
 
-Dr Chang's research interests revolve around developing structured machine learning models for computer vision and multimedia tasks. His work primarily centers on exploring the information contained within videos and advancing artificial intelligence systems. His recent research topics include:
+Prof Chang's research focuses on Embodied Artificial Intelligence, Multimodal Foundation Models, and Brain-Inspired Intelligence. His goal is to develop intelligent agents that can perceive, reason, learn, and act autonomously in complex real-world environments. By integrating multimodal perception, memory, reasoning, and decision-making, his research seeks to advance the foundations of next-generation artificial intelligence systems.
 
-- Video Analysis, including event detection, object detection, segmentation.
+His current research interests include:
 
-- Multi-Modal Foundation Models.
+- Embodied Artificial Intelligence: Embodied agents, robot learning, world models, embodied reasoning, and decision-making in dynamic environments.
 
-- Medical Foundation Models.
+- Multimodal Foundation Models: Large-scale vision-language-action models, multimodal large language models, multimodal reasoning, and foundation models for embodied intelligence.
 
-- Multi-Agent Reinforcement Learning.
+- Brain-Inspired Artificial Intelligence: Cognitive architectures, memory mechanisms, neuro-symbolic reasoning, and biologically inspired learning paradigms.
+
 
 
 ## News
