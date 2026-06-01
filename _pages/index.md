@@ -5,8 +5,7 @@ excerpt: Home page of Xiaojun Chang's website
 permalink: /
 ---
 
-| <a href="mailto:cxj273#gmail.com" target="_blank" style="text-align:center; display:block"><i class="fa fa-envelope ai-3x"></i></a> | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-google ai-3x"></i></a> | <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-linkedin ai-3x"></i></a> | <a href="https://profiles.uts.edu.au/XiaoJun.Chang" target="_blank" style="text-align:center; display:block"><i class="fa fa-graduation-cap ai-3x"></i></a> |
-
+| <a href="mailto:cxj273#gmail.com" target="_blank" style="text-align:center; display:block"><i class="fa fa-envelope ai-3x"></i></a> | <a href="{{ site.google_scholar_url }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-google ai-3x"></i></a> | <a href="https://linkedin.com/in/{{ site.linkedin_username }}" target="_blank" style="text-align:center; display:block"><i class="fa fa-linkedin ai-3x"></i></a> | <a href="https://faculty.ustc.edu.cn/changxiaojun/" target="_blank" style="text-align:center; display:block"><i class="fa fa-graduation-cap ai-3x"></i></a> |
 <img class="profile-picture" src="{{site.url}}{{site.baseurl}}/images/profile-picture/profile_picture.jpg" />
 
 Prof Xiaojun Chang is a Chair Professor at the University of Science and Technology of China (USTC), a National High-Level Talent, and a Distinguished Overseas Talent of the Chinese Academy of Sciences. He is also the recipient of the Australian Research Council (ARC) Discovery Early Career Researcher Award (DECRA).
